@@ -1,0 +1,11345 @@
+{
+"source": "Final_just_power.ipynb (cycle results from Optimization_Final.ipynb)",
+"t_limit_c": 100,
+"points": [
+{
+"t_flue_in_c": 100,
+"power_kw": 13.13084200647912,
+"t_exit_c": 69,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 100,
+"power_kw": 13.13084200647912,
+"t_out_c": 69
+}
+]
+},
+{
+"t_flue_in_c": 101,
+"power_kw": 13.654484285903452,
+"t_exit_c": 69,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 101,
+"power_kw": 13.654484285903452,
+"t_out_c": 69
+}
+]
+},
+{
+"t_flue_in_c": 102,
+"power_kw": 14.177425644231125,
+"t_exit_c": 67,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 102,
+"power_kw": 14.177425644231125,
+"t_out_c": 67
+}
+]
+},
+{
+"t_flue_in_c": 103,
+"power_kw": 14.82079198242202,
+"t_exit_c": 68,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 103,
+"power_kw": 14.82079198242202,
+"t_out_c": 68
+}
+]
+},
+{
+"t_flue_in_c": 104,
+"power_kw": 15.360842965971985,
+"t_exit_c": 69,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 104,
+"power_kw": 15.360842965971985,
+"t_out_c": 69
+}
+]
+},
+{
+"t_flue_in_c": 105,
+"power_kw": 15.948201110068794,
+"t_exit_c": 69,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 105,
+"power_kw": 15.948201110068794,
+"t_out_c": 69
+}
+]
+},
+{
+"t_flue_in_c": 106,
+"power_kw": 16.53965997463869,
+"t_exit_c": 70,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 106,
+"power_kw": 16.53965997463869,
+"t_out_c": 70
+}
+]
+},
+{
+"t_flue_in_c": 107,
+"power_kw": 17.106158750474297,
+"t_exit_c": 71,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 107,
+"power_kw": 17.106158750474297,
+"t_out_c": 71
+}
+]
+},
+{
+"t_flue_in_c": 108,
+"power_kw": 17.721237988969285,
+"t_exit_c": 69,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 108,
+"power_kw": 17.721237988969285,
+"t_out_c": 69
+}
+]
+},
+{
+"t_flue_in_c": 109,
+"power_kw": 18.41977658374632,
+"t_exit_c": 69,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 109,
+"power_kw": 18.41977658374632,
+"t_out_c": 69
+}
+]
+},
+{
+"t_flue_in_c": 110,
+"power_kw": 19.2236375917961,
+"t_exit_c": 71,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 110,
+"power_kw": 19.2236375917961,
+"t_out_c": 71
+}
+]
+},
+{
+"t_flue_in_c": 111,
+"power_kw": 19.806535348875915,
+"t_exit_c": 71,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 111,
+"power_kw": 19.806535348875915,
+"t_out_c": 71
+}
+]
+},
+{
+"t_flue_in_c": 112,
+"power_kw": 20.50494891074151,
+"t_exit_c": 69,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 112,
+"power_kw": 20.50494891074151,
+"t_out_c": 69
+}
+]
+},
+{
+"t_flue_in_c": 113,
+"power_kw": 21.196452302825747,
+"t_exit_c": 70,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 113,
+"power_kw": 21.196452302825747,
+"t_out_c": 70
+}
+]
+},
+{
+"t_flue_in_c": 114,
+"power_kw": 21.87930537009739,
+"t_exit_c": 70,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 114,
+"power_kw": 21.87930537009739,
+"t_out_c": 70
+}
+]
+},
+{
+"t_flue_in_c": 115,
+"power_kw": 22.601053892065078,
+"t_exit_c": 71,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 115,
+"power_kw": 22.601053892065078,
+"t_out_c": 71
+}
+]
+},
+{
+"t_flue_in_c": 116,
+"power_kw": 23.21582941743499,
+"t_exit_c": 72,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 116,
+"power_kw": 23.21582941743499,
+"t_out_c": 72
+}
+]
+},
+{
+"t_flue_in_c": 117,
+"power_kw": 24.119301799013837,
+"t_exit_c": 73,
+"stages": [
+{
+"cycle": "ORC",
+"t_in_c": 117,
+"power_kw": 24.119301799013837,
+"t_out_c": 73
+}
+]
+},
+{
+"t_flue_in_c": 118,
+"power_kw": 25.509599744301667,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 118,
+"power_kw": 25.509599744301667,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 119,
+"power_kw": 26.91549962849537,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 119,
+"power_kw": 26.91549962849537,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 120,
+"power_kw": 28.32160596001111,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 120,
+"power_kw": 28.32160596001111,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 121,
+"power_kw": 29.72791987376185,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 121,
+"power_kw": 29.72791987376185,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 122,
+"power_kw": 31.134442501097592,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 122,
+"power_kw": 31.134442501097592,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 123,
+"power_kw": 32.54117496980537,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 123,
+"power_kw": 32.54117496980537,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 124,
+"power_kw": 33.94811840410796,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 124,
+"power_kw": 33.94811840410796,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 125,
+"power_kw": 35.355273924664445,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 125,
+"power_kw": 35.355273924664445,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 126,
+"power_kw": 36.762642648568146,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 126,
+"power_kw": 36.762642648568146,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 127,
+"power_kw": 38.17022568934333,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 127,
+"power_kw": 38.17022568934333,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 128,
+"power_kw": 39.57802415694426,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 128,
+"power_kw": 39.57802415694426,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 129,
+"power_kw": 40.98603915775241,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 129,
+"power_kw": 40.98603915775241,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 130,
+"power_kw": 42.39427179457222,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 130,
+"power_kw": 42.39427179457222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 131,
+"power_kw": 43.80272316662666,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 131,
+"power_kw": 43.80272316662666,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 132,
+"power_kw": 45.211394369555364,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 132,
+"power_kw": 45.211394369555364,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 133,
+"power_kw": 46.620286495408145,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 133,
+"power_kw": 46.620286495408145,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 134,
+"power_kw": 48.02940063264037,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 134,
+"power_kw": 48.02940063264037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 135,
+"power_kw": 49.438737866108696,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 135,
+"power_kw": 49.438737866108696,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 136,
+"power_kw": 50.848299277064996,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 136,
+"power_kw": 50.848299277064996,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 137,
+"power_kw": 52.25808594314833,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 137,
+"power_kw": 52.25808594314833,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 138,
+"power_kw": 53.66809893838407,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 138,
+"power_kw": 53.66809893838407,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 139,
+"power_kw": 55.07833933317203,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 139,
+"power_kw": 55.07833933317203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 140,
+"power_kw": 56.48880819428222,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 140,
+"power_kw": 56.48880819428222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 141,
+"power_kw": 57.899506584847224,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 141,
+"power_kw": 57.899506584847224,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 142,
+"power_kw": 59.310435564356844,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 142,
+"power_kw": 59.310435564356844,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 143,
+"power_kw": 60.72159618864777,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 143,
+"power_kw": 60.72159618864777,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 144,
+"power_kw": 62.132989509898515,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 144,
+"power_kw": 62.132989509898515,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 145,
+"power_kw": 63.54461657661926,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 145,
+"power_kw": 63.54461657661926,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 146,
+"power_kw": 64.9564784336474,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 146,
+"power_kw": 64.9564784336474,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 147,
+"power_kw": 66.36857612213463,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 147,
+"power_kw": 66.36857612213463,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 148,
+"power_kw": 67.7809106795437,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 148,
+"power_kw": 67.7809106795437,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 149,
+"power_kw": 69.19348313963555,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 149,
+"power_kw": 69.19348313963555,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 150,
+"power_kw": 70.60629453246389,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 150,
+"power_kw": 70.60629453246389,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 151,
+"power_kw": 72.01934588436481,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 151,
+"power_kw": 72.01934588436481,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 152,
+"power_kw": 73.43263821794888,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 152,
+"power_kw": 73.43263821794888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 153,
+"power_kw": 74.84617255209203,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 153,
+"power_kw": 74.84617255209203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 154,
+"power_kw": 76.25994990192648,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 154,
+"power_kw": 76.25994990192648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 157,
+"power_kw": 80.50275014055111,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 157,
+"power_kw": 80.50275014055111,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 158,
+"power_kw": 81.91750962927888,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 158,
+"power_kw": 81.91750962927888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 159,
+"power_kw": 83.3325171528837,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 159,
+"power_kw": 83.3325171528837,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 160,
+"power_kw": 84.74777370384406,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 160,
+"power_kw": 84.74777370384406,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 161,
+"power_kw": 86.16328027082943,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 161,
+"power_kw": 86.16328027082943,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 162,
+"power_kw": 87.57903783869222,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 162,
+"power_kw": 87.57903783869222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 163,
+"power_kw": 88.99504738845869,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 163,
+"power_kw": 88.99504738845869,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 164,
+"power_kw": 90.4113098973176,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 164,
+"power_kw": 90.4113098973176,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 166,
+"power_kw": 93.2445976818361,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 166,
+"power_kw": 93.2445976818361,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 168,
+"power_kw": 96.07890893268741,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 168,
+"power_kw": 96.07890893268741,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 169,
+"power_kw": 97.49645075993907,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 169,
+"power_kw": 97.49645075993907,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 170,
+"power_kw": 98.91425132834165,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 170,
+"power_kw": 98.91425132834165,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 171,
+"power_kw": 100.33231158797314,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 171,
+"power_kw": 100.33231158797314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 172,
+"power_kw": 101.75063248499981,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 172,
+"power_kw": 101.75063248499981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 173,
+"power_kw": 103.1692149616711,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 173,
+"power_kw": 103.1692149616711,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 175,
+"power_kw": 106.00716840329092,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 175,
+"power_kw": 106.00716840329092,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 176,
+"power_kw": 107.42654123306166,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 176,
+"power_kw": 107.42654123306166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 178,
+"power_kw": 110.26608374293556,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 178,
+"power_kw": 110.26608374293556,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 179,
+"power_kw": 111.6862552641098,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 179,
+"power_kw": 111.6862552641098,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 180,
+"power_kw": 113.10669485019443,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 180,
+"power_kw": 113.10669485019443,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 181,
+"power_kw": 114.52740341177129,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 181,
+"power_kw": 114.52740341177129,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 182,
+"power_kw": 115.94838185542555,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 182,
+"power_kw": 115.94838185542555,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 183,
+"power_kw": 117.36963108373722,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 183,
+"power_kw": 117.36963108373722,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 184,
+"power_kw": 118.79115199527351,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 184,
+"power_kw": 118.79115199527351,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 185,
+"power_kw": 120.21294548458165,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 185,
+"power_kw": 120.21294548458165,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 186,
+"power_kw": 121.63501244218054,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 186,
+"power_kw": 121.63501244218054,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 187,
+"power_kw": 123.05735375455204,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 187,
+"power_kw": 123.05735375455204,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 188,
+"power_kw": 124.479970304135,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 188,
+"power_kw": 124.479970304135,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 189,
+"power_kw": 125.90286296931758,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 189,
+"power_kw": 125.90286296931758,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 190,
+"power_kw": 127.32603262442888,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 190,
+"power_kw": 127.32603262442888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 191,
+"power_kw": 128.74948013973315,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 191,
+"power_kw": 128.74948013973315,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 192,
+"power_kw": 130.1732063814211,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 192,
+"power_kw": 130.1732063814211,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 193,
+"power_kw": 131.59721221160535,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 193,
+"power_kw": 131.59721221160535,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 194,
+"power_kw": 133.0214984883115,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 194,
+"power_kw": 133.0214984883115,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 195,
+"power_kw": 134.44606606547202,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 195,
+"power_kw": 134.44606606547202,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 196,
+"power_kw": 135.87091579292166,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 196,
+"power_kw": 135.87091579292166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 197,
+"power_kw": 137.2960485163885,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 197,
+"power_kw": 137.2960485163885,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 198,
+"power_kw": 138.72146507748906,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 198,
+"power_kw": 138.72146507748906,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 199,
+"power_kw": 140.147166313722,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 199,
+"power_kw": 140.147166313722,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 200,
+"power_kw": 141.57315305846387,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 200,
+"power_kw": 141.57315305846387,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 201,
+"power_kw": 142.99942614096057,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 201,
+"power_kw": 142.99942614096057,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 202,
+"power_kw": 144.42598638632424,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 202,
+"power_kw": 144.42598638632424,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 203,
+"power_kw": 145.85283461552666,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 203,
+"power_kw": 145.85283461552666,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 204,
+"power_kw": 147.2799716453937,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 204,
+"power_kw": 147.2799716453937,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 205,
+"power_kw": 148.70739828860184,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 205,
+"power_kw": 148.70739828860184,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 206,
+"power_kw": 150.13511535367203,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 206,
+"power_kw": 150.13511535367203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 207,
+"power_kw": 151.56312364496648,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 207,
+"power_kw": 151.56312364496648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 208,
+"power_kw": 152.99142396268,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 208,
+"power_kw": 152.99142396268,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 209,
+"power_kw": 154.42001710284222,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 209,
+"power_kw": 154.42001710284222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 210,
+"power_kw": 155.84890385730756,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 210,
+"power_kw": 155.84890385730756,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 211,
+"power_kw": 157.27808501375333,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 211,
+"power_kw": 157.27808501375333,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 212,
+"power_kw": 158.7075613556785,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 212,
+"power_kw": 158.7075613556785,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 213,
+"power_kw": 160.13733366239296,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 213,
+"power_kw": 160.13733366239296,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 214,
+"power_kw": 161.56740270902074,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 214,
+"power_kw": 161.56740270902074,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 215,
+"power_kw": 162.99776926649704,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 215,
+"power_kw": 162.99776926649704,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 216,
+"power_kw": 164.42843410155905,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 216,
+"power_kw": 164.42843410155905,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 217,
+"power_kw": 165.85939797674573,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 217,
+"power_kw": 165.85939797674573,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 218,
+"power_kw": 167.2906616503985,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 218,
+"power_kw": 167.2906616503985,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 219,
+"power_kw": 168.72222587665146,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 219,
+"power_kw": 168.72222587665146,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 220,
+"power_kw": 170.1540914054398,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 220,
+"power_kw": 170.1540914054398,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 221,
+"power_kw": 171.58625898248314,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 221,
+"power_kw": 171.58625898248314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 222,
+"power_kw": 173.01872934929574,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 222,
+"power_kw": 173.01872934929574,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 223,
+"power_kw": 174.4515032431772,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 223,
+"power_kw": 174.4515032431772,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 224,
+"power_kw": 175.8845813972159,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 224,
+"power_kw": 175.8845813972159,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 225,
+"power_kw": 177.3179645402826,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 225,
+"power_kw": 177.3179645402826,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 226,
+"power_kw": 178.75165339703037,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 226,
+"power_kw": 178.75165339703037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 227,
+"power_kw": 180.18564868789684,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 227,
+"power_kw": 180.18564868789684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 228,
+"power_kw": 181.61995112909852,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 228,
+"power_kw": 181.61995112909852,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 229,
+"power_kw": 183.0545614326324,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 229,
+"power_kw": 183.0545614326324,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 230,
+"power_kw": 184.48948030627238,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 230,
+"power_kw": 184.48948030627238,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 231,
+"power_kw": 185.92470845357406,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 231,
+"power_kw": 185.92470845357406,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 232,
+"power_kw": 187.3602465738685,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 232,
+"power_kw": 187.3602465738685,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 233,
+"power_kw": 188.79609536226667,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 233,
+"power_kw": 188.79609536226667,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 234,
+"power_kw": 190.2322555096537,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 234,
+"power_kw": 190.2322555096537,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 235,
+"power_kw": 191.66872770269816,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 235,
+"power_kw": 191.66872770269816,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 236,
+"power_kw": 193.10551262383888,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 236,
+"power_kw": 193.10551262383888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 237,
+"power_kw": 194.5426109513037,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 237,
+"power_kw": 194.5426109513037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 238,
+"power_kw": 195.98002335908888,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 238,
+"power_kw": 195.98002335908888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 239,
+"power_kw": 197.41775051697778,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 239,
+"power_kw": 197.41775051697778,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 240,
+"power_kw": 198.85579309053333,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 240,
+"power_kw": 198.85579309053333,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 241,
+"power_kw": 200.29415174109812,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 241,
+"power_kw": 200.29415174109812,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 242,
+"power_kw": 201.73282712579814,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 242,
+"power_kw": 201.73282712579814,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 243,
+"power_kw": 203.17181989754812,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 243,
+"power_kw": 203.17181989754812,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 244,
+"power_kw": 204.6111307050481,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 244,
+"power_kw": 204.6111307050481,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 245,
+"power_kw": 206.0507601927815,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 245,
+"power_kw": 206.0507601927815,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 246,
+"power_kw": 207.49070900102592,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 246,
+"power_kw": 207.49070900102592,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 247,
+"power_kw": 208.93097776585185,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 247,
+"power_kw": 208.93097776585185,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 248,
+"power_kw": 210.37156711912408,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 248,
+"power_kw": 210.37156711912408,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 249,
+"power_kw": 211.8124776885,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 249,
+"power_kw": 211.8124776885,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 250,
+"power_kw": 213.25371009744075,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 250,
+"power_kw": 213.25371009744075,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 251,
+"power_kw": 214.69526496521294,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 251,
+"power_kw": 214.69526496521294,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 252,
+"power_kw": 216.13714290687963,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 252,
+"power_kw": 216.13714290687963,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 253,
+"power_kw": 217.5793445333185,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 253,
+"power_kw": 217.5793445333185,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 254,
+"power_kw": 219.02187045121852,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 254,
+"power_kw": 219.02187045121852,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 255,
+"power_kw": 220.46472126307773,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 255,
+"power_kw": 220.46472126307773,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 256,
+"power_kw": 221.90789756722222,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 256,
+"power_kw": 221.90789756722222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 257,
+"power_kw": 223.3513999577926,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 257,
+"power_kw": 223.3513999577926,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 258,
+"power_kw": 224.7952290247555,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 258,
+"power_kw": 224.7952290247555,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 259,
+"power_kw": 227.68685020302854,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 259,
+"power_kw": 128.77259887468688,
+"t_out_c": 170
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 170,
+"power_kw": 98.91425132834165,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 260,
+"power_kw": 231.35282140731425,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 260,
+"power_kw": 131.02050981934113,
+"t_out_c": 171
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 171,
+"power_kw": 100.33231158797314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 261,
+"power_kw": 233.57399357214211,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 261,
+"power_kw": 133.241681984169,
+"t_out_c": 171
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 171,
+"power_kw": 100.33231158797314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 262,
+"power_kw": 236.74517931939783,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 262,
+"power_kw": 134.99454683439802,
+"t_out_c": 172
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 172,
+"power_kw": 101.75063248499981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 263,
+"power_kw": 239.8787007416713,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 263,
+"power_kw": 136.7094857800002,
+"t_out_c": 173
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 173,
+"power_kw": 103.1692149616711,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 264,
+"power_kw": 241.59324450571472,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 264,
+"power_kw": 138.4240295440436,
+"t_out_c": 173
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 173,
+"power_kw": 103.1692149616711,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 265,
+"power_kw": 244.72952154253844,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 265,
+"power_kw": 140.1414615862316,
+"t_out_c": 174
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 266,
+"power_kw": 247.86582085452807,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 266,
+"power_kw": 141.85865245123716,
+"t_out_c": 175
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 175,
+"power_kw": 106.00716840329092,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 267,
+"power_kw": 249.58825850659758,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 267,
+"power_kw": 143.58109010330668,
+"t_out_c": 175
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 175,
+"power_kw": 106.00716840329092,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 268,
+"power_kw": 252.72556739789246,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 268,
+"power_kw": 145.2990261648308,
+"t_out_c": 176
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 176,
+"power_kw": 107.42654123306166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 269,
+"power_kw": 255.8691831235227,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 269,
+"power_kw": 147.02300375141994,
+"t_out_c": 177
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 270,
+"power_kw": 257.59344452438665,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 270,
+"power_kw": 148.7472651522839,
+"t_out_c": 177
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 271,
+"power_kw": 260.7385661003126,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 271,
+"power_kw": 150.472482357377,
+"t_out_c": 178
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 178,
+"power_kw": 110.26608374293556,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 272,
+"power_kw": 263.8795741767737,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 272,
+"power_kw": 152.1933189126639,
+"t_out_c": 179
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 179,
+"power_kw": 111.6862552641098,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 273,
+"power_kw": 265.6064235944965,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 273,
+"power_kw": 153.92016833038673,
+"t_out_c": 179
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 179,
+"power_kw": 111.6862552641098,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 274,
+"power_kw": 268.7546436868088,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 274,
+"power_kw": 155.64794883661438,
+"t_out_c": 180
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 180,
+"power_kw": 113.10669485019443,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 275,
+"power_kw": 271.9038657644859,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 275,
+"power_kw": 157.37646235271458,
+"t_out_c": 181
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 181,
+"power_kw": 114.52740341177129,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 276,
+"power_kw": 273.6328607663855,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 276,
+"power_kw": 159.10545735461417,
+"t_out_c": 181
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 181,
+"power_kw": 114.52740341177129,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 277,
+"power_kw": 276.7835859609552,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 277,
+"power_kw": 160.83520410552964,
+"t_out_c": 182
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 182,
+"power_kw": 115.94838185542555,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 278,
+"power_kw": 279.93527399162843,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 278,
+"power_kw": 162.5656429078912,
+"t_out_c": 183
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 183,
+"power_kw": 117.36963108373722,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 279,
+"power_kw": 281.66641159239157,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 279,
+"power_kw": 164.29678050865436,
+"t_out_c": 183
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 183,
+"power_kw": 117.36963108373722,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 280,
+"power_kw": 284.819702372528,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 280,
+"power_kw": 166.0285503772545,
+"t_out_c": 184
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 184,
+"power_kw": 118.79115199527351,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 281,
+"power_kw": 287.9736601672457,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 281,
+"power_kw": 167.76071468266406,
+"t_out_c": 185
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 185,
+"power_kw": 120.21294548458165,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 282,
+"power_kw": 289.70634107373974,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 282,
+"power_kw": 169.4933955891581,
+"t_out_c": 185
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 185,
+"power_kw": 120.21294548458165,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 283,
+"power_kw": 292.8615609532668,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 283,
+"power_kw": 171.2265485110863,
+"t_out_c": 186
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 186,
+"power_kw": 121.63501244218054,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 284,
+"power_kw": 296.017523551475,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 284,
+"power_kw": 172.96016979692294,
+"t_out_c": 187
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 187,
+"power_kw": 123.05735375455204,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 285,
+"power_kw": 297.7515901931209,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 285,
+"power_kw": 174.69423643856882,
+"t_out_c": 187
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 187,
+"power_kw": 123.05735375455204,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 286,
+"power_kw": 300.90864965663843,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 286,
+"power_kw": 176.42867935250342,
+"t_out_c": 188
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 188,
+"power_kw": 124.479970304135,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 287,
+"power_kw": 304.0663348156276,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 287,
+"power_kw": 178.16347184631002,
+"t_out_c": 189
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 189,
+"power_kw": 125.90286296931758,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 288,
+"power_kw": 307.22461005769776,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 288,
+"power_kw": 179.8985774332689,
+"t_out_c": 190
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 190,
+"power_kw": 127.32603262442888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 289,
+"power_kw": 308.95999293195825,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 289,
+"power_kw": 181.63396030752935,
+"t_out_c": 190
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 190,
+"power_kw": 127.32603262442888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 290,
+"power_kw": 312.1190655129504,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 290,
+"power_kw": 183.36958537321723,
+"t_out_c": 191
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 191,
+"power_kw": 128.74948013973315,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 291,
+"power_kw": 315.2785986159883,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 291,
+"power_kw": 185.1053922345672,
+"t_out_c": 192
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 192,
+"power_kw": 130.1732063814211,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 292,
+"power_kw": 317.0146308830524,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 292,
+"power_kw": 186.84142450163128,
+"t_out_c": 192
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 192,
+"power_kw": 130.1732063814211,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 293,
+"power_kw": 320.1747799696891,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 293,
+"power_kw": 188.57756775808372,
+"t_out_c": 193
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 193,
+"power_kw": 131.59721221160535,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 294,
+"power_kw": 323.3353489265983,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 294,
+"power_kw": 190.31385043828675,
+"t_out_c": 194
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 194,
+"power_kw": 133.0214984883115,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 295,
+"power_kw": 325.0716586846935,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 295,
+"power_kw": 192.050160196382,
+"t_out_c": 194
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 194,
+"power_kw": 133.0214984883115,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 296,
+"power_kw": 328.23260375624,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 296,
+"power_kw": 193.786537690768,
+"t_out_c": 195
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 195,
+"power_kw": 134.44606606547202,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 297,
+"power_kw": 331.3938453280599,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 297,
+"power_kw": 195.52292953513825,
+"t_out_c": 196
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 196,
+"power_kw": 135.87091579292166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 298,
+"power_kw": 333.130219411095,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 298,
+"power_kw": 197.2593036181734,
+"t_out_c": 196
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 196,
+"power_kw": 135.87091579292166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 299,
+"power_kw": 336.29168837478267,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 299,
+"power_kw": 198.99563985839418,
+"t_out_c": 197
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 197,
+"power_kw": 137.2960485163885,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 300,
+"power_kw": 339.45336473414704,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 300,
+"power_kw": 200.73189965665802,
+"t_out_c": 198
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 198,
+"power_kw": 138.72146507748906,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 301,
+"power_kw": 342.6152256630725,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 301,
+"power_kw": 202.4680593493505,
+"t_out_c": 199
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 199,
+"power_kw": 140.147166313722,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 302,
+"power_kw": 344.3512610718266,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 302,
+"power_kw": 204.20409475810462,
+"t_out_c": 199
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 199,
+"power_kw": 140.147166313722,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 303,
+"power_kw": 347.5131441354788,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 303,
+"power_kw": 205.9399910770149,
+"t_out_c": 200
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 200,
+"power_kw": 141.57315305846387,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 304,
+"power_kw": 350.6750793068283,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 304,
+"power_kw": 207.67565316586774,
+"t_out_c": 201
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 201,
+"power_kw": 142.99942614096057,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 305,
+"power_kw": 352.41056103534584,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 305,
+"power_kw": 209.4111348943853,
+"t_out_c": 201
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 201,
+"power_kw": 142.99942614096057,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 306,
+"power_kw": 355.57237367001414,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 306,
+"power_kw": 211.1463872836899,
+"t_out_c": 202
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 202,
+"power_kw": 144.42598638632424,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 307,
+"power_kw": 358.73421700754017,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 307,
+"power_kw": 212.8813823920135,
+"t_out_c": 203
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 203,
+"power_kw": 145.85283461552666,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 308,
+"power_kw": 361.89606782497566,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 308,
+"power_kw": 214.61609617958197,
+"t_out_c": 204
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 204,
+"power_kw": 147.2799716453937,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 309,
+"power_kw": 363.6304768241025,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 309,
+"power_kw": 216.35050517870883,
+"t_out_c": 204
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 204,
+"power_kw": 147.2799716453937,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 310,
+"power_kw": 366.7919847751214,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 310,
+"power_kw": 218.08458648651958,
+"t_out_c": 205
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 205,
+"power_kw": 148.70739828860184,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 311,
+"power_kw": 369.95343314337345,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 311,
+"power_kw": 219.8183177897014,
+"t_out_c": 206
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 206,
+"power_kw": 150.13511535367203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 312,
+"power_kw": 371.6867925747785,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 312,
+"power_kw": 221.55167722110647,
+"t_out_c": 206
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 206,
+"power_kw": 150.13511535367203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 313,
+"power_kw": 374.84776718953583,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 313,
+"power_kw": 223.28464354456935,
+"t_out_c": 207
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 207,
+"power_kw": 151.56312364496648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 314,
+"power_kw": 378.0086199751803,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 314,
+"power_kw": 225.01719601250034,
+"t_out_c": 208
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 208,
+"power_kw": 152.99142396268,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 315,
+"power_kw": 381.16933149197257,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 315,
+"power_kw": 226.74931438913038,
+"t_out_c": 209
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 209,
+"power_kw": 154.42001710284222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 316,
+"power_kw": 382.9009960459889,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 316,
+"power_kw": 228.4809789431467,
+"t_out_c": 209
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 209,
+"power_kw": 154.42001710284222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 317,
+"power_kw": 386.06107429417807,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 317,
+"power_kw": 230.21217043687048,
+"t_out_c": 210
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 210,
+"power_kw": 155.84890385730756,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 318,
+"power_kw": 389.2209551661549,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 318,
+"power_kw": 231.94287015240158,
+"t_out_c": 211
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 211,
+"power_kw": 157.27808501375333,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 319,
+"power_kw": 390.95111965651733,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 319,
+"power_kw": 233.673034642764,
+"t_out_c": 211
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 211,
+"power_kw": 157.27808501375333,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 320,
+"power_kw": 394.11027644963445,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 320,
+"power_kw": 235.40271509395595,
+"t_out_c": 212
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 212,
+"power_kw": 158.7075613556785,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 321,
+"power_kw": 397.26917098805245,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 321,
+"power_kw": 237.1318373256595,
+"t_out_c": 213
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 213,
+"power_kw": 160.13733366239296,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 322,
+"power_kw": 400.42779581848083,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 322,
+"power_kw": 238.86039310946012,
+"t_out_c": 214
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 214,
+"power_kw": 161.56740270902074,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 323,
+"power_kw": 402.15578292264286,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 323,
+"power_kw": 240.58838021362214,
+"t_out_c": 214
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 214,
+"power_kw": 161.56740270902074,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 324,
+"power_kw": 405.3135211519374,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 324,
+"power_kw": 242.31575188544036,
+"t_out_c": 215
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 215,
+"power_kw": 162.99776926649704,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 325,
+"power_kw": 408.47095855693385,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 325,
+"power_kw": 244.04252445537483,
+"t_out_c": 216
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 216,
+"power_kw": 164.42843410155905,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 326,
+"power_kw": 410.1971066827603,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 326,
+"power_kw": 245.76867258120126,
+"t_out_c": 216
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 216,
+"power_kw": 164.42843410155905,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 327,
+"power_kw": 413.35358121580646,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 327,
+"power_kw": 247.49418323906073,
+"t_out_c": 217
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 217,
+"power_kw": 165.85939797674573,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 328,
+"power_kw": 416.50970833602196,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 328,
+"power_kw": 249.21904668562343,
+"t_out_c": 218
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 218,
+"power_kw": 167.2906616503985,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 329,
+"power_kw": 419.6654169707578,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 329,
+"power_kw": 250.94319109410634,
+"t_out_c": 219
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 219,
+"power_kw": 168.72222587665146,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 330,
+"power_kw": 421.388957640342,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 330,
+"power_kw": 252.66673176369056,
+"t_out_c": 219
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 219,
+"power_kw": 168.72222587665146,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 331,
+"power_kw": 424.5436363438293,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 331,
+"power_kw": 254.3895449383895,
+"t_out_c": 220
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 220,
+"power_kw": 170.1540914054398,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 332,
+"power_kw": 427.69790641967336,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 332,
+"power_kw": 256.1116474371902,
+"t_out_c": 221
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 221,
+"power_kw": 171.58625898248314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 333,
+"power_kw": 430.8517621974761,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 333,
+"power_kw": 257.8330328481803,
+"t_out_c": 222
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 222,
+"power_kw": 173.01872934929574,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 334,
+"power_kw": 432.5724178633018,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 334,
+"power_kw": 259.553688514006,
+"t_out_c": 222
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 222,
+"power_kw": 173.01872934929574,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 335,
+"power_kw": 435.72514186339424,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 335,
+"power_kw": 261.27363862021707,
+"t_out_c": 223
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 223,
+"power_kw": 174.4515032431772,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 336,
+"power_kw": 438.877376249784,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 336,
+"power_kw": 262.99279485256807,
+"t_out_c": 224
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 224,
+"power_kw": 175.8845813972159,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 337,
+"power_kw": 442.02920799389085,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 337,
+"power_kw": 264.7112434536083,
+"t_out_c": 225
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 225,
+"power_kw": 177.3179645402826,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 338,
+"power_kw": 443.7468063943488,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 338,
+"power_kw": 266.42884185406626,
+"t_out_c": 225
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 225,
+"power_kw": 177.3179645402826,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 339,
+"power_kw": 446.89734441308667,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 339,
+"power_kw": 268.1456910160563,
+"t_out_c": 226
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 226,
+"power_kw": 178.75165339703037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 340,
+"power_kw": 450.04739746068026,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 340,
+"power_kw": 269.8617487727834,
+"t_out_c": 227
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 227,
+"power_kw": 180.18564868789684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 341,
+"power_kw": 453.1969571007432,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 341,
+"power_kw": 271.57700597164467,
+"t_out_c": 228
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 228,
+"power_kw": 181.61995112909852,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 342,
+"power_kw": 454.9114049039205,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 342,
+"power_kw": 273.291453774822,
+"t_out_c": 228
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 228,
+"power_kw": 181.61995112909852,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 343,
+"power_kw": 458.0596455443293,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 343,
+"power_kw": 275.00508411169693,
+"t_out_c": 229
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 229,
+"power_kw": 183.0545614326324,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 344,
+"power_kw": 461.207368683681,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 344,
+"power_kw": 276.71788837740866,
+"t_out_c": 230
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 230,
+"power_kw": 184.48948030627238,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 345,
+"power_kw": 464.35456749640895,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 345,
+"power_kw": 278.4298590428349,
+"t_out_c": 231
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 231,
+"power_kw": 185.92470845357406,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 346,
+"power_kw": 466.06569710622983,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 346,
+"power_kw": 280.1409886526558,
+"t_out_c": 231
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 231,
+"power_kw": 185.92470845357406,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 347,
+"power_kw": 469.2115166792232,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 347,
+"power_kw": 281.85127010535473,
+"t_out_c": 232
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 232,
+"power_kw": 187.3602465738685,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 348,
+"power_kw": 472.3567920036925,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 348,
+"power_kw": 283.5606966414258,
+"t_out_c": 233
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 233,
+"power_kw": 188.79609536226667,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 349,
+"power_kw": 475.5015175619975,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 349,
+"power_kw": 285.26926205234383,
+"t_out_c": 234
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 234,
+"power_kw": 190.2322555096537,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 350,
+"power_kw": 477.20921578493744,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 350,
+"power_kw": 286.9769602752837,
+"t_out_c": 234
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 234,
+"power_kw": 190.2322555096537,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 351,
+"power_kw": 480.35251424532856,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 351,
+"power_kw": 288.6837865426304,
+"t_out_c": 235
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 235,
+"power_kw": 191.66872770269816,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 352,
+"power_kw": 483.49524699867277,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 352,
+"power_kw": 290.3897343748339,
+"t_out_c": 236
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 236,
+"power_kw": 193.10551262383888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 353,
+"power_kw": 486.62900454908504,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 353,
+"power_kw": 292.08639359778135,
+"t_out_c": 237
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 237,
+"power_kw": 194.5426109513037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 354,
+"power_kw": 488.3331126880406,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 354,
+"power_kw": 293.7905017367369,
+"t_out_c": 237
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 237,
+"power_kw": 194.5426109513037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 355,
+"power_kw": 491.4737969369399,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 355,
+"power_kw": 295.493773577851,
+"t_out_c": 238
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 238,
+"power_kw": 195.98002335908888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 356,
+"power_kw": 494.61385837592087,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 356,
+"power_kw": 297.1961078589431,
+"t_out_c": 239
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 239,
+"power_kw": 197.41775051697778,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 357,
+"power_kw": 497.75334877355675,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 357,
+"power_kw": 298.8975556830234,
+"t_out_c": 240
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 240,
+"power_kw": 198.85579309053333,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 358,
+"power_kw": 499.4538902352622,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 358,
+"power_kw": 300.59809714472885,
+"t_out_c": 240
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 240,
+"power_kw": 198.85579309053333,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 359,
+"power_kw": 502.59188040060957,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 359,
+"power_kw": 302.29772865951145,
+"t_out_c": 241
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 241,
+"power_kw": 200.29415174109812,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 360,
+"power_kw": 505.729274138528,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 360,
+"power_kw": 303.99644701272985,
+"t_out_c": 242
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 242,
+"power_kw": 201.73282712579814,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 361,
+"power_kw": 508.86606907625804,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 361,
+"power_kw": 305.6942491787099,
+"t_out_c": 243
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 243,
+"power_kw": 203.17181989754812,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 362,
+"power_kw": 510.5629522427374,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 362,
+"power_kw": 307.3911323451893,
+"t_out_c": 243
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 243,
+"power_kw": 203.17181989754812,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 363,
+"power_kw": 513.6982513234839,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 363,
+"power_kw": 309.08712061843573,
+"t_out_c": 244
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 244,
+"power_kw": 204.6111307050481,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 364,
+"power_kw": 516.8328825606113,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 364,
+"power_kw": 310.78212236782986,
+"t_out_c": 245
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 245,
+"power_kw": 206.0507601927815,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 365,
+"power_kw": 519.9669510971911,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 365,
+"power_kw": 312.47624209616515,
+"t_out_c": 246
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 246,
+"power_kw": 207.49070900102592,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 366,
+"power_kw": 523.1004045497779,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 366,
+"power_kw": 314.16942678392604,
+"t_out_c": 247
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 247,
+"power_kw": 208.93097776585185,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 367,
+"power_kw": 524.7926590926768,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 367,
+"power_kw": 315.86168132682496,
+"t_out_c": 247
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 247,
+"power_kw": 208.93097776585185,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 368,
+"power_kw": 527.9245710631548,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 368,
+"power_kw": 317.5530039440307,
+"t_out_c": 248
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 248,
+"power_kw": 210.37156711912408,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 369,
+"power_kw": 531.0558724615307,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 369,
+"power_kw": 319.2433947730307,
+"t_out_c": 249
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 249,
+"power_kw": 211.8124776885,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 370,
+"power_kw": 534.1865625774918,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 370,
+"power_kw": 320.9328524800511,
+"t_out_c": 250
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 250,
+"power_kw": 213.25371009744075,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 371,
+"power_kw": 535.8750867673413,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 371,
+"power_kw": 322.6213766699005,
+"t_out_c": 250
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 250,
+"power_kw": 213.25371009744075,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 372,
+"power_kw": 539.004232682258,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 372,
+"power_kw": 324.3089677170451,
+"t_out_c": 251
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 251,
+"power_kw": 214.69526496521294,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 373,
+"power_kw": 542.1327699432328,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 373,
+"power_kw": 325.9956270363532,
+"t_out_c": 252
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 252,
+"power_kw": 216.13714290687963,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 374,
+"power_kw": 545.260701856589,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 374,
+"power_kw": 327.6813573232705,
+"t_out_c": 253
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 253,
+"power_kw": 217.5793445333185,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 375,
+"power_kw": 548.3879612744998,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 375,
+"power_kw": 329.3660908232813,
+"t_out_c": 254
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 254,
+"power_kw": 219.02187045121852,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 376,
+"power_kw": 550.0718412379113,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 376,
+"power_kw": 331.0499707866927,
+"t_out_c": 254
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 254,
+"power_kw": 219.02187045121852,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 377,
+"power_kw": 553.1976065858139,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 377,
+"power_kw": 332.73288532273614,
+"t_out_c": 255
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 255,
+"power_kw": 220.46472126307773,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 378,
+"power_kw": 556.3227635695904,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 378,
+"power_kw": 334.41486600236817,
+"t_out_c": 256
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 256,
+"power_kw": 221.90789756722222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 379,
+"power_kw": 559.4473135596623,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 379,
+"power_kw": 336.0959136018697,
+"t_out_c": 257
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 257,
+"power_kw": 223.3513999577926,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 380,
+"power_kw": 561.1274290620385,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 380,
+"power_kw": 337.7760291042458,
+"t_out_c": 257
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 257,
+"power_kw": 223.3513999577926,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 381,
+"power_kw": 564.250442729566,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 381,
+"power_kw": 339.45521370481043,
+"t_out_c": 258
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 258,
+"power_kw": 224.7952290247555,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 382,
+"power_kw": 567.3728540238162,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 382,
+"power_kw": 341.1334686699032,
+"t_out_c": 259
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 259,
+"power_kw": 226.23938535391295,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 383,
+"power_kw": 570.4946650110294,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 383,
+"power_kw": 342.8107954841349,
+"t_out_c": 260
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 260,
+"power_kw": 227.68386952689443,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 384,
+"power_kw": 573.6158779199167,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 384,
+"power_kw": 344.4871957987426,
+"t_out_c": 261
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 261,
+"power_kw": 229.12868212117405,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 385,
+"power_kw": 575.2913535496057,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 385,
+"power_kw": 346.1626714284316,
+"t_out_c": 261
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 261,
+"power_kw": 229.12868212117405,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 386,
+"power_kw": 578.4110480582884,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 386,
+"power_kw": 347.8372243482274,
+"t_out_c": 262
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 262,
+"power_kw": 230.57382371006108,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 387,
+"power_kw": 581.530151553168,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 387,
+"power_kw": 349.51085669044767,
+"t_out_c": 263
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 263,
+"power_kw": 232.01929486272036,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 388,
+"power_kw": 584.6486668858068,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 388,
+"power_kw": 351.1835707416457,
+"t_out_c": 264
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 264,
+"power_kw": 233.46509614416112,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 389,
+"power_kw": 586.3204650838188,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 389,
+"power_kw": 352.85536893965775,
+"t_out_c": 264
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 264,
+"power_kw": 233.46509614416112,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 390,
+"power_kw": 589.4374819859164,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 390,
+"power_kw": 354.52625387066087,
+"t_out_c": 265
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 265,
+"power_kw": 234.91122811525554,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 391,
+"power_kw": 592.5539195990546,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 391,
+"power_kw": 356.19622826632127,
+"t_out_c": 266
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 266,
+"power_kw": 236.3576913327333,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 392,
+"power_kw": 595.6697813501111,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 392,
+"power_kw": 357.8652950009185,
+"t_out_c": 267
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 267,
+"power_kw": 237.80448634919256,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 393,
+"power_kw": 598.7850707649513,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 393,
+"power_kw": 359.53345705184586,
+"t_out_c": 268
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 268,
+"power_kw": 239.2516137131055,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 394,
+"power_kw": 600.4523313803281,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 394,
+"power_kw": 361.20071766722265,
+"t_out_c": 268
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 268,
+"power_kw": 239.2516137131055,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 395,
+"power_kw": 603.5661540290985,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 395,
+"power_kw": 362.86708006027817,
+"t_out_c": 269
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 269,
+"power_kw": 240.69907396882036,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 396,
+"power_kw": 606.6794153221816,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 396,
+"power_kw": 364.5325476656187,
+"t_out_c": 270
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 270,
+"power_kw": 242.14686765656293,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 397,
+"power_kw": 609.7921193148735,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 397,
+"power_kw": 366.1971240024143,
+"t_out_c": 271
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 271,
+"power_kw": 243.59499531245925,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 398,
+"power_kw": 612.9042702350584,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 398,
+"power_kw": 367.8608127665399,
+"t_out_c": 272
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 272,
+"power_kw": 245.0434574685185,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 399,
+"power_kw": 614.5670752225819,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 399,
+"power_kw": 369.5236177540635,
+"t_out_c": 272
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 272,
+"power_kw": 245.0434574685185,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 400,
+"power_kw": 619.0837000113779,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 400,
+"power_kw": 463.23479615407035,
+"t_out_c": 210
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 210,
+"power_kw": 155.84890385730756,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 401,
+"power_kw": 627.1727579129633,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 401,
+"power_kw": 469.89467289921,
+"t_out_c": 211
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 211,
+"power_kw": 157.27808501375333,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 402,
+"power_kw": 637.1969941955482,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 402,
+"power_kw": 477.05966053315524,
+"t_out_c": 213
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 213,
+"power_kw": 160.13733366239296,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 403,
+"power_kw": 640.4902270315507,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 403,
+"power_kw": 478.92282432253,
+"t_out_c": 214
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 214,
+"power_kw": 161.56740270902074,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 404,
+"power_kw": 648.0494737213932,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 404,
+"power_kw": 485.05170445489614,
+"t_out_c": 215
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 215,
+"power_kw": 162.99776926649704,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 405,
+"power_kw": 659.5033003019049,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 405,
+"power_kw": 492.2126386515064,
+"t_out_c": 218
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 218,
+"power_kw": 167.2906616503985,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 406,
+"power_kw": 665.9078832734157,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 406,
+"power_kw": 498.61722162301714,
+"t_out_c": 218
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 218,
+"power_kw": 167.2906616503985,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 407,
+"power_kw": 669.5104580285289,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 407,
+"power_kw": 500.7882321518774,
+"t_out_c": 219
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 219,
+"power_kw": 168.72222587665146,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 408,
+"power_kw": 675.5068592842251,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 408,
+"power_kw": 503.92060030174196,
+"t_out_c": 221
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 221,
+"power_kw": 171.58625898248314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 409,
+"power_kw": 682.4501934446229,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 409,
+"power_kw": 507.99869020144564,
+"t_out_c": 223
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 223,
+"power_kw": 174.4515032431772,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 410,
+"power_kw": 687.202471208799,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 410,
+"power_kw": 508.4508178117687,
+"t_out_c": 226
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 226,
+"power_kw": 178.75165339703037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 411,
+"power_kw": 690.1580422482108,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 411,
+"power_kw": 511.40638885118045,
+"t_out_c": 226
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 226,
+"power_kw": 178.75165339703037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 412,
+"power_kw": 652.0603625270192,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 412,
+"power_kw": 391.0615962657563,
+"t_out_c": 283
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 283,
+"power_kw": 260.9987662612629,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 413,
+"power_kw": 655.1637730709733,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 413,
+"power_kw": 392.7124906403974,
+"t_out_c": 284
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 284,
+"power_kw": 262.45128243057593,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 414,
+"power_kw": 660.4868194725892,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 414,
+"power_kw": 533.1607868481603,
+"t_out_c": 190
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 190,
+"power_kw": 127.32603262442888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 415,
+"power_kw": 663.4129154530465,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 415,
+"power_kw": 534.6634353133134,
+"t_out_c": 191
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 191,
+"power_kw": 128.74948013973315,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 416,
+"power_kw": 674.843459637136,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 416,
+"power_kw": 544.6702532557149,
+"t_out_c": 192
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 192,
+"power_kw": 130.1732063814211,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 417,
+"power_kw": 681.717545126986,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 417,
+"power_kw": 550.1203329153807,
+"t_out_c": 193
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 193,
+"power_kw": 131.59721221160535,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 418,
+"power_kw": 690.6595730198475,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 418,
+"power_kw": 557.638074531536,
+"t_out_c": 194
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 194,
+"power_kw": 133.0214984883115,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 419,
+"power_kw": 700.7963485379541,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 419,
+"power_kw": 564.9254327450325,
+"t_out_c": 196
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 196,
+"power_kw": 135.87091579292166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 420,
+"power_kw": 706.3369982544199,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 420,
+"power_kw": 569.0409497380314,
+"t_out_c": 197
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 197,
+"power_kw": 137.2960485163885,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 421,
+"power_kw": 709.5554735344218,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 421,
+"power_kw": 570.8340084569328,
+"t_out_c": 198
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 198,
+"power_kw": 138.72146507748906,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 422,
+"power_kw": 722.5261202123406,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 422,
+"power_kw": 582.3789538986186,
+"t_out_c": 199
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 199,
+"power_kw": 140.147166313722,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 423,
+"power_kw": 730.862913271857,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 423,
+"power_kw": 587.8634871308965,
+"t_out_c": 201
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 201,
+"power_kw": 142.99942614096057,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 424,
+"power_kw": 738.7900424902799,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 424,
+"power_kw": 594.3640561039557,
+"t_out_c": 202
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 202,
+"power_kw": 144.42598638632424,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 425,
+"power_kw": 742.7063317235513,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 425,
+"power_kw": 596.8534971080247,
+"t_out_c": 203
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 203,
+"power_kw": 145.85283461552666,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 426,
+"power_kw": 747.694816590438,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 426,
+"power_kw": 598.9874183018362,
+"t_out_c": 205
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 205,
+"power_kw": 148.70739828860184,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 427,
+"power_kw": 752.1791347098415,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 427,
+"power_kw": 599.1877107471615,
+"t_out_c": 208
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 208,
+"power_kw": 152.99142396268,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 428,
+"power_kw": 697.2897164667871,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 428,
+"power_kw": 417.38150538347605,
+"t_out_c": 296
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 296,
+"power_kw": 279.9082110833111,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 429,
+"power_kw": 711.7772219662112,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 429,
+"power_kw": 612.8629706378696,
+"t_out_c": 170
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 170,
+"power_kw": 98.91425132834165,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 430,
+"power_kw": 716.2546849214316,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 430,
+"power_kw": 615.9223733334585,
+"t_out_c": 171
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 171,
+"power_kw": 100.33231158797314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 431,
+"power_kw": 720.7876214189423,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 431,
+"power_kw": 619.0369889339424,
+"t_out_c": 172
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 172,
+"power_kw": 101.75063248499981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 432,
+"power_kw": 728.3316710588978,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 432,
+"power_kw": 625.1624560972267,
+"t_out_c": 173
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 173,
+"power_kw": 103.1692149616711,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 433,
+"power_kw": 738.0269135283784,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 433,
+"power_kw": 633.4388535720715,
+"t_out_c": 174
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 434,
+"power_kw": 754.110782416931,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 434,
+"power_kw": 648.10361401364,
+"t_out_c": 175
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 175,
+"power_kw": 106.00716840329092,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 435,
+"power_kw": 759.1700971939229,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 435,
+"power_kw": 651.7435559608612,
+"t_out_c": 176
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 176,
+"power_kw": 107.42654123306166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 436,
+"power_kw": 764.9832097355743,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 436,
+"power_kw": 656.1370303634715,
+"t_out_c": 177
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 437,
+"power_kw": 770.560345405197,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 437,
+"power_kw": 660.2942616622615,
+"t_out_c": 178
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 178,
+"power_kw": 110.26608374293556,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 438,
+"power_kw": 782.1901490309284,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 438,
+"power_kw": 669.083454180734,
+"t_out_c": 180
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 180,
+"power_kw": 113.10669485019443,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 439,
+"power_kw": 785.6352429799414,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 439,
+"power_kw": 671.1078395681701,
+"t_out_c": 181
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 181,
+"power_kw": 114.52740341177129,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 440,
+"power_kw": 799.0285357421304,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 440,
+"power_kw": 681.6589046583932,
+"t_out_c": 183
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 183,
+"power_kw": 117.36963108373722,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 441,
+"power_kw": 801.1037194183876,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 441,
+"power_kw": 682.3125674231142,
+"t_out_c": 184
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 184,
+"power_kw": 118.79115199527351,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 442,
+"power_kw": 806.2725715436052,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 442,
+"power_kw": 684.6375591014247,
+"t_out_c": 186
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 186,
+"power_kw": 121.63501244218054,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 443,
+"power_kw": 810.5557207498425,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 443,
+"power_kw": 686.0757504457075,
+"t_out_c": 188
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 188,
+"power_kw": 124.479970304135,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 444,
+"power_kw": 756.0171365494708,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 444,
+"power_kw": 688.2362258699271,
+"t_out_c": 148
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 148,
+"power_kw": 67.7809106795437,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 445,
+"power_kw": 765.737084282661,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 445,
+"power_kw": 695.1307897501972,
+"t_out_c": 150
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 150,
+"power_kw": 70.60629453246389,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 446,
+"power_kw": 776.0650503597778,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 446,
+"power_kw": 704.045704475413,
+"t_out_c": 151
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 151,
+"power_kw": 72.01934588436481,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 447,
+"power_kw": 788.2838304950347,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 447,
+"power_kw": 714.8511922770858,
+"t_out_c": 152
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 152,
+"power_kw": 73.43263821794888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 448,
+"power_kw": 788.5081089814214,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 448,
+"power_kw": 713.6619364293293,
+"t_out_c": 153
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 153,
+"power_kw": 74.84617255209203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 449,
+"power_kw": 798.9700921917192,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 449,
+"power_kw": 722.7101422897928,
+"t_out_c": 154
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 154,
+"power_kw": 76.25994990192648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 450,
+"power_kw": 805.0589924572995,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 450,
+"power_kw": 727.385021178468,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 451,
+"power_kw": 815.4998457947668,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 451,
+"power_kw": 734.9970956542156,
+"t_out_c": 157
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 157,
+"power_kw": 80.50275014055111,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 452,
+"power_kw": 825.9181461361985,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 452,
+"power_kw": 741.1703724323545,
+"t_out_c": 160
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 160,
+"power_kw": 84.74777370384406,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 453,
+"power_kw": 833.0433301737255,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 453,
+"power_kw": 746.8800499028961,
+"t_out_c": 161
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 161,
+"power_kw": 86.16328027082943,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 454,
+"power_kw": 835.3707612299544,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 454,
+"power_kw": 749.207480959125,
+"t_out_c": 161
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 161,
+"power_kw": 86.16328027082943,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 455,
+"power_kw": 842.0356864494153,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 455,
+"power_kw": 750.2078601108018,
+"t_out_c": 165
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 456,
+"power_kw": 843.5127878987203,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 456,
+"power_kw": 751.6849615601068,
+"t_out_c": 165
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 457,
+"power_kw": 853.988374905473,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 457,
+"power_kw": 755.0741235771314,
+"t_out_c": 170
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 170,
+"power_kw": 98.91425132834165,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 458,
+"power_kw": 856.3888816374165,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 458,
+"power_kw": 751.8008216811097,
+"t_out_c": 174
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 459,
+"power_kw": 862.5724491017613,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 459,
+"power_kw": 757.9843891454545,
+"t_out_c": 174
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 460,
+"power_kw": 865.532675072931,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 460,
+"power_kw": 758.1061338398694,
+"t_out_c": 176
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 176,
+"power_kw": 107.42654123306166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 461,
+"power_kw": 872.0810562203633,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 461,
+"power_kw": 763.2348768482605,
+"t_out_c": 177
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 462,
+"power_kw": 818.254012543229,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 462,
+"power_kw": 764.5859136048449,
+"t_out_c": 138
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 138,
+"power_kw": 53.66809893838407,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 463,
+"power_kw": 828.4900038295898,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 463,
+"power_kw": 772.0011956353076,
+"t_out_c": 140
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 140,
+"power_kw": 56.48880819428222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 464,
+"power_kw": 831.6377081156734,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 464,
+"power_kw": 775.1488999213911,
+"t_out_c": 140
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 140,
+"power_kw": 56.48880819428222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 465,
+"power_kw": 838.5238680464034,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 465,
+"power_kw": 779.2134324820466,
+"t_out_c": 142
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 142,
+"power_kw": 59.310435564356844,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 466,
+"power_kw": 846.7220433432515,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 466,
+"power_kw": 786.0004471546036,
+"t_out_c": 143
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 143,
+"power_kw": 60.72159618864777,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 467,
+"power_kw": 855.4602652602263,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 467,
+"power_kw": 789.0916891380916,
+"t_out_c": 147
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 147,
+"power_kw": 66.36857612213463,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 468,
+"power_kw": 865.7079629419953,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 468,
+"power_kw": 799.3393868198607,
+"t_out_c": 147
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 147,
+"power_kw": 66.36857612213463,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 469,
+"power_kw": 866.7291541708778,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 469,
+"power_kw": 794.709808286513,
+"t_out_c": 151
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 151,
+"power_kw": 72.01934588436481,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 470,
+"power_kw": 876.3278194755792,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 470,
+"power_kw": 805.7215249431154,
+"t_out_c": 150
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 150,
+"power_kw": 70.60629453246389,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 471,
+"power_kw": 881.3534148393942,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 471,
+"power_kw": 807.9207766214453,
+"t_out_c": 152
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 152,
+"power_kw": 73.43263821794888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 472,
+"power_kw": 888.9890840898911,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 472,
+"power_kw": 811.3151128110596,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 473,
+"power_kw": 896.1144116975288,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 473,
+"power_kw": 819.8544617956023,
+"t_out_c": 154
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 154,
+"power_kw": 76.25994990192648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 474,
+"power_kw": 902.2587840397402,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 474,
+"power_kw": 821.7560338991891,
+"t_out_c": 157
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 157,
+"power_kw": 80.50275014055111,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 475,
+"power_kw": 911.2034571318414,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 475,
+"power_kw": 823.6244192931492,
+"t_out_c": 162
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 162,
+"power_kw": 87.57903783869222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 476,
+"power_kw": 912.3477830935581,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 476,
+"power_kw": 819.1031854117219,
+"t_out_c": 166
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 166,
+"power_kw": 93.2445976818361,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 477,
+"power_kw": 921.9246313291771,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 477,
+"power_kw": 830.0968049905637,
+"t_out_c": 165
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 478,
+"power_kw": 921.8937313258169,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 478,
+"power_kw": 825.8148223931295,
+"t_out_c": 168
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 168,
+"power_kw": 96.07890893268741,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 479,
+"power_kw": 930.14506115682,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 479,
+"power_kw": 834.0661522241326,
+"t_out_c": 168
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 168,
+"power_kw": 96.07890893268741,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 480,
+"power_kw": 936.6048552205216,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 480,
+"power_kw": 839.1084044605825,
+"t_out_c": 169
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 169,
+"power_kw": 97.49645075993907,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 481,
+"power_kw": 941.5804442285212,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 481,
+"power_kw": 841.2481326405481,
+"t_out_c": 171
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 171,
+"power_kw": 100.33231158797314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 482,
+"power_kw": 946.5468719679022,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 482,
+"power_kw": 841.9588120115955,
+"t_out_c": 174
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 483,
+"power_kw": 951.4342982545393,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 483,
+"power_kw": 842.5881188824366,
+"t_out_c": 177
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 484,
+"power_kw": 959.3316898764665,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 484,
+"power_kw": 847.6454346123567,
+"t_out_c": 179
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 179,
+"power_kw": 111.6862552641098,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 485,
+"power_kw": 906.2509031771795,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 485,
+"power_kw": 848.3513965923322,
+"t_out_c": 141
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 141,
+"power_kw": 57.899506584847224,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 486,
+"power_kw": 967.581683870999,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 486,
+"power_kw": 855.8954286068891,
+"t_out_c": 179
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 179,
+"power_kw": 111.6862552641098,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 487,
+"power_kw": 921.9336019609616,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 487,
+"power_kw": 865.4447937666794,
+"t_out_c": 140
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 140,
+"power_kw": 56.48880819428222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 488,
+"power_kw": 923.9390684766472,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 488,
+"power_kw": 861.8060789667487,
+"t_out_c": 144
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 144,
+"power_kw": 62.132989509898515,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 489,
+"power_kw": 937.3412512578009,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 489,
+"power_kw": 873.7966346811816,
+"t_out_c": 145
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 145,
+"power_kw": 63.54461657661926,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 490,
+"power_kw": 946.3131249974523,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 490,
+"power_kw": 881.3566465638049,
+"t_out_c": 146
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 146,
+"power_kw": 64.9564784336474,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 491,
+"power_kw": 949.525621060646,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 491,
+"power_kw": 884.5691426269987,
+"t_out_c": 146
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 146,
+"power_kw": 64.9564784336474,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 492,
+"power_kw": 956.9177554845184,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 492,
+"power_kw": 882.0715829324263,
+"t_out_c": 153
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 153,
+"power_kw": 74.84617255209203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 493,
+"power_kw": 969.3882439407012,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 493,
+"power_kw": 895.9556057227522,
+"t_out_c": 152
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 152,
+"power_kw": 73.43263821794888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 494,
+"power_kw": 973.0077992923887,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 494,
+"power_kw": 896.7478493904622,
+"t_out_c": 154
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 154,
+"power_kw": 76.25994990192648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 495,
+"power_kw": 978.0547610188744,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 495,
+"power_kw": 900.3807897400429,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 496,
+"power_kw": 984.025159000108,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 496,
+"power_kw": 904.9369213096842,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 497,
+"power_kw": 991.7054918652385,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 497,
+"power_kw": 911.2027417246874,
+"t_out_c": 157
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 157,
+"power_kw": 80.50275014055111,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 498,
+"power_kw": 996.1729004324203,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 498,
+"power_kw": 912.8403832795366,
+"t_out_c": 159
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 159,
+"power_kw": 83.3325171528837,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 499,
+"power_kw": 1002.1732398746622,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 499,
+"power_kw": 916.0099596038327,
+"t_out_c": 161
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 161,
+"power_kw": 86.16328027082943,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 500,
+"power_kw": 1010.0993414602166,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 500,
+"power_kw": 921.1042940717579,
+"t_out_c": 163
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 163,
+"power_kw": 88.99504738845869,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 501,
+"power_kw": 1017.7578154613178,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 501,
+"power_kw": 925.9299891227043,
+"t_out_c": 165
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 502,
+"power_kw": 1025.917810968142,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 502,
+"power_kw": 931.2561860755322,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 503,
+"power_kw": 1029.6493314678637,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 503,
+"power_kw": 936.4047337860276,
+"t_out_c": 166
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 166,
+"power_kw": 93.2445976818361,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 504,
+"power_kw": 1034.2823448372444,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 504,
+"power_kw": 939.6207199446346,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 505,
+"power_kw": 1037.5091944602077,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 505,
+"power_kw": 942.8475695675978,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 506,
+"power_kw": 1040.7465128277292,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 506,
+"power_kw": 946.0848879351195,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 507,
+"power_kw": 1043.9938507707868,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 507,
+"power_kw": 949.3322258781769,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 508,
+"power_kw": 1062.9673029995313,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 508,
+"power_kw": 952.7012192565958,
+"t_out_c": 178
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 178,
+"power_kw": 110.26608374293556,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 509,
+"power_kw": 1066.8092341919723,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 509,
+"power_kw": 956.5431504490367,
+"t_out_c": 178
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 178,
+"power_kw": 110.26608374293556,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 510,
+"power_kw": 1059.287979142798,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 510,
+"power_kw": 966.0433814609619,
+"t_out_c": 166
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 166,
+"power_kw": 93.2445976818361,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 511,
+"power_kw": 1060.884818737834,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 511,
+"power_kw": 964.8059098051466,
+"t_out_c": 168
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 168,
+"power_kw": 96.07890893268741,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 512,
+"power_kw": 1036.1611259703636,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 512,
+"power_kw": 974.0281364604651,
+"t_out_c": 144
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 144,
+"power_kw": 62.132989509898515,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 513,
+"power_kw": 1070.9117632292262,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 513,
+"power_kw": 976.2501383366163,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 514,
+"power_kw": 1046.8621593568867,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 514,
+"power_kw": 980.4935832347521,
+"t_out_c": 147
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 147,
+"power_kw": 66.36857612213463,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 515,
+"power_kw": 1052.6895611003204,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 515,
+"power_kw": 984.9086504207767,
+"t_out_c": 148
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 148,
+"power_kw": 67.7809106795437,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 516,
+"power_kw": 1061.431144576031,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 516,
+"power_kw": 993.6502338964874,
+"t_out_c": 148
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 148,
+"power_kw": 67.7809106795437,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 517,
+"power_kw": 1069.2170860903125,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 517,
+"power_kw": 1000.023602950677,
+"t_out_c": 149
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 149,
+"power_kw": 69.19348313963555,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 518,
+"power_kw": 1074.1711119903282,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 518,
+"power_kw": 1000.7384737723793,
+"t_out_c": 152
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 152,
+"power_kw": 73.43263821794888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 519,
+"power_kw": 1084.119124598323,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 519,
+"power_kw": 1009.272952046231,
+"t_out_c": 153
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 153,
+"power_kw": 74.84617255209203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 520,
+"power_kw": 1091.6998727955358,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 520,
+"power_kw": 1014.0259015167043,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 521,
+"power_kw": 1096.994722627528,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 521,
+"power_kw": 1019.3207513486965,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 522,
+"power_kw": 1100.1663811252943,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 522,
+"power_kw": 1022.4924098464627,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 523,
+"power_kw": 1103.3318749029943,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 523,
+"power_kw": 1025.6579036241628,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 524,
+"power_kw": 1107.9033530207146,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 524,
+"power_kw": 1028.8151153302906,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 525,
+"power_kw": 1111.049876517337,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 525,
+"power_kw": 1031.961638826913,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 526,
+"power_kw": 1114.182967148726,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 526,
+"power_kw": 1035.094729458302,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 527,
+"power_kw": 1117.2994812506772,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 527,
+"power_kw": 1038.2112435602533,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 528,
+"power_kw": 1127.0774436380568,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 528,
+"power_kw": 1049.4034723592254,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 529,
+"power_kw": 1126.8692486825412,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 529,
+"power_kw": 1047.7810109921172,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 530,
+"power_kw": 1132.7257924235987,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 530,
+"power_kw": 1053.6375547331747,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 531,
+"power_kw": 1137.1568438702363,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 531,
+"power_kw": 1059.4828725914049,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 532,
+"power_kw": 1142.9885540034868,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 532,
+"power_kw": 1065.3145827246553,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 533,
+"power_kw": 1146.6378852241667,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 533,
+"power_kw": 1068.9639139453352,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 534,
+"power_kw": 1150.2072871969813,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 534,
+"power_kw": 1072.5333159181498,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 535,
+"power_kw": 1153.7878964003737,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 535,
+"power_kw": 1076.1139251215423,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 536,
+"power_kw": 1137.1836820340286,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 536,
+"power_kw": 1080.6948738397464,
+"t_out_c": 140
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 140,
+"power_kw": 56.48880819428222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 537,
+"power_kw": 1148.8917197935789,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 537,
+"power_kw": 1090.9922132087318,
+"t_out_c": 141
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 141,
+"power_kw": 57.899506584847224,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 538,
+"power_kw": 1157.3207732184917,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 538,
+"power_kw": 1096.599177029844,
+"t_out_c": 143
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 143,
+"power_kw": 60.72159618864777,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 539,
+"power_kw": 1163.6382521656894,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 539,
+"power_kw": 1102.9166559770417,
+"t_out_c": 143
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 143,
+"power_kw": 60.72159618864777,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 540,
+"power_kw": 1167.1853566106265,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 540,
+"power_kw": 1106.4637604219788,
+"t_out_c": 143
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 143,
+"power_kw": 60.72159618864777,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 541,
+"power_kw": 1170.7471570004893,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 541,
+"power_kw": 1110.0255608118416,
+"t_out_c": 143
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 143,
+"power_kw": 60.72159618864777,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 542,
+"power_kw": 1174.3236422705468,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 542,
+"power_kw": 1113.602046081899,
+"t_out_c": 143
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 143,
+"power_kw": 60.72159618864777,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 543,
+"power_kw": 1179.3261903670677,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 543,
+"power_kw": 1117.1932008571691,
+"t_out_c": 144
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 144,
+"power_kw": 62.132989509898515,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 544,
+"power_kw": 1182.931994838807,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 544,
+"power_kw": 1120.7990053289084,
+"t_out_c": 144
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 144,
+"power_kw": 62.132989509898515,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 545,
+"power_kw": 1186.5524246135565,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 545,
+"power_kw": 1124.4194351036579,
+"t_out_c": 144
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 144,
+"power_kw": 62.132989509898515,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 546,
+"power_kw": 1190.1874505306878,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Steam Rankine",
+"t_in_c": 546,
+"power_kw": 1128.0544610207892,
+"t_out_c": 144
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 144,
+"power_kw": 62.132989509898515,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 547,
+"power_kw": 1198.8733540204585,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 547,
+"power_kw": 609.4194874535525,
+"t_out_c": 396
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 396,
+"power_kw": 439.318751213234,
+"t_out_c": 206
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 206,
+"power_kw": 150.13511535367203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 548,
+"power_kw": 1206.7381234489483,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 548,
+"power_kw": 611.0276855757479,
+"t_out_c": 397
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 397,
+"power_kw": 444.1473142282338,
+"t_out_c": 207
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 207,
+"power_kw": 151.56312364496648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 549,
+"power_kw": 1208.3465619018264,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 549,
+"power_kw": 612.6361240286261,
+"t_out_c": 397
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 397,
+"power_kw": 444.1473142282338,
+"t_out_c": 207
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 207,
+"power_kw": 151.56312364496648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 550,
+"power_kw": 1216.6030645653454,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 550,
+"power_kw": 614.2448109602908,
+"t_out_c": 398
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 398,
+"power_kw": 449.36682964237446,
+"t_out_c": 208
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 208,
+"power_kw": 152.99142396268,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 551,
+"power_kw": 1224.4223074426507,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 551,
+"power_kw": 615.8537546262764,
+"t_out_c": 399
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 399,
+"power_kw": 454.14853571353194,
+"t_out_c": 209
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 209,
+"power_kw": 154.42001710284222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 552,
+"power_kw": 1236.5466632474938,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 552,
+"power_kw": 617.462963236116,
+"t_out_c": 400
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 400,
+"power_kw": 463.23479615407035,
+"t_out_c": 210
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 210,
+"power_kw": 155.84890385730756,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 553,
+"power_kw": 1246.2452029044073,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 553,
+"power_kw": 619.0724449914441,
+"t_out_c": 401
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 401,
+"power_kw": 469.89467289921,
+"t_out_c": 211
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 211,
+"power_kw": 157.27808501375333,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 554,
+"power_kw": 1257.8792022814973,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 554,
+"power_kw": 620.6822080859492,
+"t_out_c": 402
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 402,
+"power_kw": 477.05966053315524,
+"t_out_c": 213
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 213,
+"power_kw": 160.13733366239296,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 555,
+"power_kw": 1262.7824877367796,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 555,
+"power_kw": 622.2922607052287,
+"t_out_c": 403
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 403,
+"power_kw": 478.92282432253,
+"t_out_c": 214
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 214,
+"power_kw": 161.56740270902074,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 556,
+"power_kw": 1264.3928380583304,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 556,
+"power_kw": 623.9026110267796,
+"t_out_c": 403
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 403,
+"power_kw": 478.92282432253,
+"t_out_c": 214
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 214,
+"power_kw": 161.56740270902074,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 557,
+"power_kw": 1273.5627409355739,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 557,
+"power_kw": 625.5132672141806,
+"t_out_c": 404
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 404,
+"power_kw": 485.05170445489614,
+"t_out_c": 215
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 215,
+"power_kw": 162.99776926649704,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 558,
+"power_kw": 1286.6275377440181,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 558,
+"power_kw": 627.1242374421131,
+"t_out_c": 405
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 405,
+"power_kw": 492.2126386515064,
+"t_out_c": 218
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 218,
+"power_kw": 167.2906616503985,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 559,
+"power_kw": 1294.626853016118,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 559,
+"power_kw": 628.7189697427023,
+"t_out_c": 406
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 406,
+"power_kw": 498.61722162301714,
+"t_out_c": 218
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 218,
+"power_kw": 167.2906616503985,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 560,
+"power_kw": 1299.841151378413,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 560,
+"power_kw": 630.3306933498841,
+"t_out_c": 407
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 407,
+"power_kw": 500.7882321518774,
+"t_out_c": 219
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 219,
+"power_kw": 168.72222587665146,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 561,
+"power_kw": 1307.4496152552786,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 561,
+"power_kw": 631.9427559710534,
+"t_out_c": 408
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 408,
+"power_kw": 503.92060030174196,
+"t_out_c": 221
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 221,
+"power_kw": 171.58625898248314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 562,
+"power_kw": 1316.0053591746434,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 562,
+"power_kw": 633.5551657300206,
+"t_out_c": 409
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 409,
+"power_kw": 507.99869020144564,
+"t_out_c": 223
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 223,
+"power_kw": 174.4515032431772,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 563,
+"power_kw": 1322.3704277579786,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 563,
+"power_kw": 635.1679565491795,
+"t_out_c": 410
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 410,
+"power_kw": 508.4508178117687,
+"t_out_c": 226
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 226,
+"power_kw": 178.75165339703037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 564,
+"power_kw": 1323.983495596873,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 564,
+"power_kw": 636.7810243880738,
+"t_out_c": 410
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 410,
+"power_kw": 508.4508178117687,
+"t_out_c": 226
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 226,
+"power_kw": 178.75165339703037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 565,
+"power_kw": 1328.5525793751488,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 565,
+"power_kw": 638.394537126938,
+"t_out_c": 411
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 411,
+"power_kw": 511.40638885118045,
+"t_out_c": 226
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 226,
+"power_kw": 178.75165339703037,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 566,
+"power_kw": 1277.3109103848797,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 566,
+"power_kw": 640.0084249664947,
+"t_out_c": 412
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 412,
+"power_kw": 514.2451316638331,
+"t_out_c": 187
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 187,
+"power_kw": 123.05735375455204,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 567,
+"power_kw": 1289.971095295116,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 567,
+"power_kw": 641.6226973827024,
+"t_out_c": 413
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 413,
+"power_kw": 523.8684276082786,
+"t_out_c": 188
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 188,
+"power_kw": 124.479970304135,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 568,
+"power_kw": 1303.7241829230188,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 568,
+"power_kw": 643.2373634504297,
+"t_out_c": 414
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 414,
+"power_kw": 533.1607868481603,
+"t_out_c": 190
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 190,
+"power_kw": 127.32603262442888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 569,
+"power_kw": 1308.2653473923058,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 569,
+"power_kw": 644.8524319392593,
+"t_out_c": 415
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 415,
+"power_kw": 534.6634353133134,
+"t_out_c": 191
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 191,
+"power_kw": 128.74948013973315,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 570,
+"power_kw": 1321.3113710422704,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 570,
+"power_kw": 646.4679114051345,
+"t_out_c": 416
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 416,
+"power_kw": 544.6702532557149,
+"t_out_c": 192
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 192,
+"power_kw": 130.1732063814211,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 571,
+"power_kw": 1322.9272699373464,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 571,
+"power_kw": 648.0838103002103,
+"t_out_c": 416
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 416,
+"power_kw": 544.6702532557149,
+"t_out_c": 192
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 192,
+"power_kw": 130.1732063814211,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 572,
+"power_kw": 1331.4176818797073,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 572,
+"power_kw": 649.700136752721,
+"t_out_c": 417
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 417,
+"power_kw": 550.1203329153807,
+"t_out_c": 193
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 193,
+"power_kw": 131.59721221160535,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 573,
+"power_kw": 1341.976471955632,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 573,
+"power_kw": 651.3168989357845,
+"t_out_c": 418
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 418,
+"power_kw": 557.638074531536,
+"t_out_c": 194
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 194,
+"power_kw": 133.0214984883115,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 574,
+"power_kw": 1353.7304534809996,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 574,
+"power_kw": 652.9341049430454,
+"t_out_c": 419
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 419,
+"power_kw": 564.9254327450325,
+"t_out_c": 196
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 196,
+"power_kw": 135.87091579292166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 575,
+"power_kw": 1360.8887610840488,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 575,
+"power_kw": 654.551762829629,
+"t_out_c": 420
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 420,
+"power_kw": 569.0409497380314,
+"t_out_c": 197
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 197,
+"power_kw": 137.2960485163885,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 576,
+"power_kw": 1365.7253410041471,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 576,
+"power_kw": 656.1698674697253,
+"t_out_c": 421
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 421,
+"power_kw": 570.8340084569328,
+"t_out_c": 198
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 198,
+"power_kw": 138.72146507748906,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 577,
+"power_kw": 1380.3146146081406,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 577,
+"power_kw": 657.7884943958,
+"t_out_c": 422
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 422,
+"power_kw": 582.3789538986186,
+"t_out_c": 199
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 199,
+"power_kw": 140.147166313722,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 578,
+"power_kw": 1390.2704513636763,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 578,
+"power_kw": 659.4075380918191,
+"t_out_c": 423
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 423,
+"power_kw": 587.8634871308965,
+"t_out_c": 201
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 201,
+"power_kw": 142.99942614096057,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 579,
+"power_kw": 1391.8899896325565,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 579,
+"power_kw": 661.0270763606993,
+"t_out_c": 423
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 423,
+"power_kw": 587.8634871308965,
+"t_out_c": 201
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 201,
+"power_kw": 142.99942614096057,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 580,
+"power_kw": 1401.437153762583,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 580,
+"power_kw": 662.647111272303,
+"t_out_c": 424
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 424,
+"power_kw": 594.3640561039557,
+"t_out_c": 202
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 202,
+"power_kw": 144.42598638632424,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 581,
+"power_kw": 1406.9739795030732,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 581,
+"power_kw": 664.2676477795217,
+"t_out_c": 425
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 425,
+"power_kw": 596.8534971080247,
+"t_out_c": 203
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 203,
+"power_kw": 145.85283461552666,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 582,
+"power_kw": 1413.5835090584578,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 582,
+"power_kw": 665.8886924680199,
+"t_out_c": 426
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 426,
+"power_kw": 598.9874183018362,
+"t_out_c": 205
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 205,
+"power_kw": 148.70739828860184,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 583,
+"power_kw": 1419.6893875774106,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 583,
+"power_kw": 667.510252867569,
+"t_out_c": 427
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 427,
+"power_kw": 599.1877107471615,
+"t_out_c": 208
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 208,
+"power_kw": 152.99142396268,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 584,
+"power_kw": 1360.9799230562292,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 584,
+"power_kw": 669.1323396256099,
+"t_out_c": 428
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 428,
+"power_kw": 595.7686744979317,
+"t_out_c": 168
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 168,
+"power_kw": 96.07890893268741,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 585,
+"power_kw": 1382.5321742314861,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 585,
+"power_kw": 670.7549522652749,
+"t_out_c": 429
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 429,
+"power_kw": 612.8629706378696,
+"t_out_c": 170
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 170,
+"power_kw": 98.91425132834165,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 586,
+"power_kw": 1384.1553288624682,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 586,
+"power_kw": 672.378106896257,
+"t_out_c": 429
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 429,
+"power_kw": 612.8629706378696,
+"t_out_c": 170
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 170,
+"power_kw": 98.91425132834165,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 587,
+"power_kw": 1390.2564927692995,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 587,
+"power_kw": 674.0018078478678,
+"t_out_c": 430
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 430,
+"power_kw": 615.9223733334585,
+"t_out_c": 171
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 171,
+"power_kw": 100.33231158797314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 588,
+"power_kw": 1396.4136820355727,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 588,
+"power_kw": 675.6260606166303,
+"t_out_c": 431
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 431,
+"power_kw": 619.0369889339424,
+"t_out_c": 172
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 172,
+"power_kw": 101.75063248499981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 589,
+"power_kw": 1405.5825385179803,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 589,
+"power_kw": 677.2508674590825,
+"t_out_c": 432
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 432,
+"power_kw": 625.1624560972267,
+"t_out_c": 173
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 173,
+"power_kw": 103.1692149616711,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 590,
+"power_kw": 1416.9032190112214,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 590,
+"power_kw": 678.8763054828432,
+"t_out_c": 433
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 433,
+"power_kw": 633.4388535720715,
+"t_out_c": 174
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 591,
+"power_kw": 1434.6130303607722,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 591,
+"power_kw": 680.5022479438412,
+"t_out_c": 434
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 434,
+"power_kw": 648.10361401364,
+"t_out_c": 175
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 175,
+"power_kw": 106.00716840329092,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 592,
+"power_kw": 1441.298901644035,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 592,
+"power_kw": 682.1288044501119,
+"t_out_c": 435
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 435,
+"power_kw": 651.7435559608612,
+"t_out_c": 176
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 176,
+"power_kw": 107.42654123306166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 593,
+"power_kw": 1448.739165090736,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 593,
+"power_kw": 683.7559553551615,
+"t_out_c": 436
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 436,
+"power_kw": 656.1370303634715,
+"t_out_c": 177
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 594,
+"power_kw": 1450.3669182410988,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 594,
+"power_kw": 685.3837085055245,
+"t_out_c": 436
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 436,
+"power_kw": 656.1370303634715,
+"t_out_c": 177
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 595,
+"power_kw": 1457.5724171103195,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 595,
+"power_kw": 687.0120717051224,
+"t_out_c": 437
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 437,
+"power_kw": 660.2942616622615,
+"t_out_c": 178
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 178,
+"power_kw": 110.26608374293556,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 596,
+"power_kw": 1470.8312017670714,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 596,
+"power_kw": 688.6410527361431,
+"t_out_c": 438
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 438,
+"power_kw": 669.083454180734,
+"t_out_c": 180
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 180,
+"power_kw": 113.10669485019443,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 597,
+"power_kw": 1475.905902288306,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 597,
+"power_kw": 690.2706593083644,
+"t_out_c": 439
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 439,
+"power_kw": 671.1078395681701,
+"t_out_c": 181
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 181,
+"power_kw": 114.52740341177129,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 598,
+"power_kw": 1490.9294351304402,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 598,
+"power_kw": 691.9008993883098,
+"t_out_c": 440
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 440,
+"power_kw": 681.6589046583932,
+"t_out_c": 183
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 183,
+"power_kw": 117.36963108373722,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 599,
+"power_kw": 1494.6354995069892,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 599,
+"power_kw": 693.5317800886015,
+"t_out_c": 441
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 441,
+"power_kw": 682.3125674231142,
+"t_out_c": 184
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 184,
+"power_kw": 118.79115199527351,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 600,
+"power_kw": 1501.4358806070604,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 600,
+"power_kw": 695.163309063455,
+"t_out_c": 442
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 442,
+"power_kw": 684.6375591014247,
+"t_out_c": 186
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 186,
+"power_kw": 121.63501244218054,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 601,
+"power_kw": 1507.3512100755966,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 601,
+"power_kw": 696.7954893257543,
+"t_out_c": 443
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 443,
+"power_kw": 686.0757504457075,
+"t_out_c": 188
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 188,
+"power_kw": 124.479970304135,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 602,
+"power_kw": 1508.98405211212,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 602,
+"power_kw": 698.4283313622777,
+"t_out_c": 443
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 443,
+"power_kw": 686.0757504457075,
+"t_out_c": 188
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 188,
+"power_kw": 124.479970304135,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 603,
+"power_kw": 1456.078978204401,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 603,
+"power_kw": 700.0618416549303,
+"t_out_c": 444
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 444,
+"power_kw": 688.2362258699271,
+"t_out_c": 148
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 148,
+"power_kw": 67.7809106795437,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 604,
+"power_kw": 1467.433109823073,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 604,
+"power_kw": 701.6960255404119,
+"t_out_c": 445
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 445,
+"power_kw": 695.1307897501972,
+"t_out_c": 150
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 150,
+"power_kw": 70.60629453246389,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 605,
+"power_kw": 1479.3960153657206,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 605,
+"power_kw": 703.3309650059427,
+"t_out_c": 446
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 446,
+"power_kw": 704.045704475413,
+"t_out_c": 151
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 151,
+"power_kw": 72.01934588436481,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 606,
+"power_kw": 1493.2329940468817,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 606,
+"power_kw": 704.9491635518472,
+"t_out_c": 447
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 447,
+"power_kw": 714.8511922770858,
+"t_out_c": 152
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 152,
+"power_kw": 73.43263821794888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 607,
+"power_kw": 1495.0937520655184,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 607,
+"power_kw": 706.5856430840971,
+"t_out_c": 448
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 448,
+"power_kw": 713.6619364293293,
+"t_out_c": 153
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 153,
+"power_kw": 74.84617255209203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 608,
+"power_kw": 1507.1929264573764,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 608,
+"power_kw": 708.2228342656572,
+"t_out_c": 449
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 449,
+"power_kw": 722.7101422897928,
+"t_out_c": 154
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 154,
+"power_kw": 76.25994990192648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 609,
+"power_kw": 1514.9197371970108,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 609,
+"power_kw": 709.8607447397113,
+"t_out_c": 450
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 450,
+"power_kw": 727.385021178468,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 610,
+"power_kw": 1516.558374600486,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 610,
+"power_kw": 711.4993821431867,
+"t_out_c": 450
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 450,
+"power_kw": 727.385021178468,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 611,
+"power_kw": 1528.6385999011427,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 611,
+"power_kw": 713.1387541063759,
+"t_out_c": 451
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 451,
+"power_kw": 734.9970956542156,
+"t_out_c": 157
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 157,
+"power_kw": 80.50275014055111,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 612,
+"power_kw": 1540.6970143889023,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 612,
+"power_kw": 714.7788682527038,
+"t_out_c": 452
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 452,
+"power_kw": 741.1703724323545,
+"t_out_c": 160
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 160,
+"power_kw": 84.74777370384406,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 613,
+"power_kw": 1549.4630623721664,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 613,
+"power_kw": 716.4197321984409,
+"t_out_c": 453
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 453,
+"power_kw": 746.8800499028961,
+"t_out_c": 161
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 161,
+"power_kw": 86.16328027082943,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 614,
+"power_kw": 1553.4321147824576,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 614,
+"power_kw": 718.061353552503,
+"t_out_c": 454
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 454,
+"power_kw": 749.207480959125,
+"t_out_c": 161
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 161,
+"power_kw": 86.16328027082943,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 615,
+"power_kw": 1561.7394263657814,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 615,
+"power_kw": 719.703739916366,
+"t_out_c": 455
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 455,
+"power_kw": 750.2078601108018,
+"t_out_c": 165
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 616,
+"power_kw": 1564.859686780087,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 616,
+"power_kw": 721.3468988813668,
+"t_out_c": 456
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 456,
+"power_kw": 751.6849615601068,
+"t_out_c": 165
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 617,
+"power_kw": 1566.5036259325082,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 617,
+"power_kw": 722.9908380337879,
+"t_out_c": 456
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 456,
+"power_kw": 751.6849615601068,
+"t_out_c": 165
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 618,
+"power_kw": 1578.6239398560554,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 618,
+"power_kw": 724.6355649505823,
+"t_out_c": 457
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 457,
+"power_kw": 755.0741235771314,
+"t_out_c": 170
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 170,
+"power_kw": 98.91425132834165,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 619,
+"power_kw": 1582.6699688554982,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 619,
+"power_kw": 726.2810872180817,
+"t_out_c": 458
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 458,
+"power_kw": 751.8008216811097,
+"t_out_c": 174
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 620,
+"power_kw": 1590.4998614752224,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 620,
+"power_kw": 727.9274123734612,
+"t_out_c": 459
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 459,
+"power_kw": 757.9843891454545,
+"t_out_c": 174
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 621,
+"power_kw": 1595.1072230449902,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 621,
+"power_kw": 729.5745479720592,
+"t_out_c": 460
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 460,
+"power_kw": 758.1061338398694,
+"t_out_c": 176
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 176,
+"power_kw": 107.42654123306166,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 622,
+"power_kw": 1603.3035577775136,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 622,
+"power_kw": 731.2225015571503,
+"t_out_c": 461
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 461,
+"power_kw": 763.2348768482605,
+"t_out_c": 177
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 623,
+"power_kw": 1551.1252931045085,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 623,
+"power_kw": 732.8712805612796,
+"t_out_c": 462
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 462,
+"power_kw": 764.5859136048449,
+"t_out_c": 138
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 138,
+"power_kw": 53.66809893838407,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 624,
+"power_kw": 1563.010896543548,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 624,
+"power_kw": 734.520892713958,
+"t_out_c": 463
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 463,
+"power_kw": 772.0011956353076,
+"t_out_c": 140
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 140,
+"power_kw": 56.48880819428222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 625,
+"power_kw": 1564.6613492597617,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 625,
+"power_kw": 736.1713454301719,
+"t_out_c": 463
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 463,
+"power_kw": 772.0011956353076,
+"t_out_c": 140
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 140,
+"power_kw": 56.48880819428222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 626,
+"power_kw": 1569.4603543337594,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 626,
+"power_kw": 737.822646218086,
+"t_out_c": 464
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 464,
+"power_kw": 775.1488999213911,
+"t_out_c": 140
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 140,
+"power_kw": 56.48880819428222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 627,
+"power_kw": 1577.9986706225955,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 627,
+"power_kw": 739.4748025761921,
+"t_out_c": 465
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 465,
+"power_kw": 779.2134324820466,
+"t_out_c": 142
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 142,
+"power_kw": 59.310435564356844,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 628,
+"power_kw": 1587.8498653380261,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 628,
+"power_kw": 741.1278219947749,
+"t_out_c": 466
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 466,
+"power_kw": 786.0004471546036,
+"t_out_c": 143
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 143,
+"power_kw": 60.72159618864777,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 629,
+"power_kw": 1598.2419772150686,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 629,
+"power_kw": 742.7817119548424,
+"t_out_c": 467
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 467,
+"power_kw": 789.0916891380916,
+"t_out_c": 147
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 147,
+"power_kw": 66.36857612213463,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 630,
+"power_kw": 1610.144442870378,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 630,
+"power_kw": 744.4364799283828,
+"t_out_c": 468
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 468,
+"power_kw": 799.3393868198607,
+"t_out_c": 147
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 147,
+"power_kw": 66.36857612213463,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 631,
+"power_kw": 1612.82128754925,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 631,
+"power_kw": 746.0921333783722,
+"t_out_c": 469
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 469,
+"power_kw": 794.709808286513,
+"t_out_c": 151
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 151,
+"power_kw": 72.01934588436481,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 632,
+"power_kw": 1624.0764992343388,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 632,
+"power_kw": 747.7486797587597,
+"t_out_c": 470
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 470,
+"power_kw": 805.7215249431154,
+"t_out_c": 150
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 150,
+"power_kw": 70.60629453246389,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 633,
+"power_kw": 1625.7339460157689,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 633,
+"power_kw": 749.4061265401897,
+"t_out_c": 470
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 470,
+"power_kw": 805.7215249431154,
+"t_out_c": 150
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 150,
+"power_kw": 70.60629453246389,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 634,
+"power_kw": 1632.4178959704082,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 634,
+"power_kw": 751.064481131014,
+"t_out_c": 471
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 471,
+"power_kw": 807.9207766214453,
+"t_out_c": 152
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 152,
+"power_kw": 73.43263821794888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 635,
+"power_kw": 1641.6949249767295,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 635,
+"power_kw": 752.7058408868384,
+"t_out_c": 472
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 472,
+"power_kw": 811.3151128110596,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 636,
+"power_kw": 1650.4807670711475,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 636,
+"power_kw": 754.3663553736186,
+"t_out_c": 473
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 473,
+"power_kw": 819.8544617956023,
+"t_out_c": 154
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 154,
+"power_kw": 76.25994990192648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 637,
+"power_kw": 1658.2865849691643,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 637,
+"power_kw": 756.027800929424,
+"t_out_c": 474
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 474,
+"power_kw": 821.7560338991891,
+"t_out_c": 157
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 157,
+"power_kw": 80.50275014055111,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 638,
+"power_kw": 1668.8936418370754,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 638,
+"power_kw": 757.6901847052341,
+"t_out_c": 475
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 475,
+"power_kw": 823.6244192931492,
+"t_out_c": 162
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 162,
+"power_kw": 87.57903783869222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 639,
+"power_kw": 1671.7012972113614,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 639,
+"power_kw": 759.3535141178036,
+"t_out_c": 476
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 476,
+"power_kw": 819.1031854117219,
+"t_out_c": 166
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 166,
+"power_kw": 93.2445976818361,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 640,
+"power_kw": 1682.9424278843883,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 640,
+"power_kw": 761.0177965552112,
+"t_out_c": 477
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 477,
+"power_kw": 830.0968049905637,
+"t_out_c": 165
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 641,
+"power_kw": 1684.5767706582967,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 641,
+"power_kw": 762.6830393324799,
+"t_out_c": 478
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 478,
+"power_kw": 825.8148223931295,
+"t_out_c": 168
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 168,
+"power_kw": 96.07890893268741,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 642,
+"power_kw": 1686.242980758492,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 642,
+"power_kw": 764.349249432675,
+"t_out_c": 478
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 478,
+"power_kw": 825.8148223931295,
+"t_out_c": 168
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 168,
+"power_kw": 96.07890893268741,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 643,
+"power_kw": 1696.1614962365688,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 643,
+"power_kw": 766.0164350797488,
+"t_out_c": 479
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 479,
+"power_kw": 834.0661522241326,
+"t_out_c": 168
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 168,
+"power_kw": 96.07890893268741,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 644,
+"power_kw": 1704.2894583353268,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 644,
+"power_kw": 767.6846031148052,
+"t_out_c": 480
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 480,
+"power_kw": 839.1084044605825,
+"t_out_c": 169
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 169,
+"power_kw": 97.49645075993907,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 645,
+"power_kw": 1710.9342131987653,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 645,
+"power_kw": 769.3537689702441,
+"t_out_c": 481
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 481,
+"power_kw": 841.2481326405481,
+"t_out_c": 171
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 171,
+"power_kw": 100.33231158797314,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 646,
+"power_kw": 1717.5708035684818,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 646,
+"power_kw": 771.0239316005795,
+"t_out_c": 482
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 482,
+"power_kw": 841.9588120115955,
+"t_out_c": 174
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 174,
+"power_kw": 104.58805995630684,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 647,
+"power_kw": 1724.1293515168638,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 647,
+"power_kw": 772.6950532623243,
+"t_out_c": 483
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 483,
+"power_kw": 842.5881188824366,
+"t_out_c": 177
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 177,
+"power_kw": 108.84617937210277,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 648,
+"power_kw": 1733.6989187424067,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 648,
+"power_kw": 774.3672288659403,
+"t_out_c": 484
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 484,
+"power_kw": 847.6454346123567,
+"t_out_c": 179
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 179,
+"power_kw": 111.6862552641098,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 649,
+"power_kw": 1682.2913255621434,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 649,
+"power_kw": 776.0404223849639,
+"t_out_c": 485
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 485,
+"power_kw": 848.3513965923322,
+"t_out_c": 141
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 141,
+"power_kw": 57.899506584847224,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 650,
+"power_kw": 1683.9655445148176,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 650,
+"power_kw": 777.7146413376382,
+"t_out_c": 485
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 485,
+"power_kw": 848.3513965923322,
+"t_out_c": 141
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 141,
+"power_kw": 57.899506584847224,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 651,
+"power_kw": 1746.9715770575456,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 651,
+"power_kw": 779.3898931865467,
+"t_out_c": 486
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 486,
+"power_kw": 855.8954286068891,
+"t_out_c": 179
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 179,
+"power_kw": 111.6862552641098,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 652,
+"power_kw": 1702.9997873071522,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 652,
+"power_kw": 781.0661853461907,
+"t_out_c": 487
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 487,
+"power_kw": 865.4447937666794,
+"t_out_c": 140
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 140,
+"power_kw": 56.48880819428222,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 653,
+"power_kw": 1706.682593670513,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 653,
+"power_kw": 782.7435251938655,
+"t_out_c": 488
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 488,
+"power_kw": 861.8060789667487,
+"t_out_c": 144
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 144,
+"power_kw": 62.132989509898515,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 654,
+"power_kw": 1721.7452020411165,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 654,
+"power_kw": 784.4039507833155,
+"t_out_c": 489
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 489,
+"power_kw": 873.7966346811816,
+"t_out_c": 145
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 145,
+"power_kw": 63.54461657661926,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 655,
+"power_kw": 1732.397051762163,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 655,
+"power_kw": 786.0839267647108,
+"t_out_c": 490
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 490,
+"power_kw": 881.3566465638049,
+"t_out_c": 146
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 146,
+"power_kw": 64.9564784336474,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 656,
+"power_kw": 1737.2905944888619,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 656,
+"power_kw": 787.7649734282159,
+"t_out_c": 491
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 491,
+"power_kw": 884.5691426269987,
+"t_out_c": 146
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 146,
+"power_kw": 64.9564784336474,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 657,
+"power_kw": 1746.3648535075472,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 657,
+"power_kw": 789.4470980230291,
+"t_out_c": 492
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 492,
+"power_kw": 882.0715829324263,
+"t_out_c": 153
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 153,
+"power_kw": 74.84617255209203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 658,
+"power_kw": 1748.0480632818162,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 658,
+"power_kw": 791.1303077972979,
+"t_out_c": 492
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 492,
+"power_kw": 882.0715829324263,
+"t_out_c": 153
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 153,
+"power_kw": 74.84617255209203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 659,
+"power_kw": 1762.2028539062558,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 659,
+"power_kw": 792.8146099655548,
+"t_out_c": 493
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 493,
+"power_kw": 895.9556057227522,
+"t_out_c": 152
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 152,
+"power_kw": 73.43263821794888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 660,
+"power_kw": 1767.507811023947,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 660,
+"power_kw": 794.5000117315581,
+"t_out_c": 494
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 494,
+"power_kw": 896.7478493904622,
+"t_out_c": 154
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 154,
+"power_kw": 76.25994990192648,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 661,
+"power_kw": 1774.2412813140618,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 661,
+"power_kw": 796.1865202951874,
+"t_out_c": 495
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 495,
+"power_kw": 900.3807897400429,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 662,
+"power_kw": 1781.899301845208,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 662,
+"power_kw": 797.8741428450998,
+"t_out_c": 496
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 496,
+"power_kw": 904.9369213096842,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 663,
+"power_kw": 1791.2683784236474,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 663,
+"power_kw": 799.5628865584089,
+"t_out_c": 497
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 497,
+"power_kw": 911.2027417246874,
+"t_out_c": 157
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 157,
+"power_kw": 80.50275014055111,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 664,
+"power_kw": 1797.4256538785894,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 664,
+"power_kw": 801.2527534461693,
+"t_out_c": 498
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 498,
+"power_kw": 912.8403832795366,
+"t_out_c": 159
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 159,
+"power_kw": 83.3325171528837,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 665,
+"power_kw": 1805.1170016246415,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 665,
+"power_kw": 802.9437617499791,
+"t_out_c": 499
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 499,
+"power_kw": 916.0099596038327,
+"t_out_c": 161
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 161,
+"power_kw": 86.16328027082943,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 666,
+"power_kw": 1806.791163472385,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 666,
+"power_kw": 804.6179235977227,
+"t_out_c": 499
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 499,
+"power_kw": 916.0099596038327,
+"t_out_c": 161
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 161,
+"power_kw": 86.16328027082943,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 667,
+"power_kw": 1816.4113838927292,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 667,
+"power_kw": 806.3120424325127,
+"t_out_c": 500
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 500,
+"power_kw": 921.1042940717579,
+"t_out_c": 163
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 163,
+"power_kw": 88.99504738845869,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 668,
+"power_kw": 1825.7651348094244,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 668,
+"power_kw": 808.0073193481064,
+"t_out_c": 501
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 501,
+"power_kw": 925.9299891227043,
+"t_out_c": 165
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 165,
+"power_kw": 91.82782633861352,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 669,
+"power_kw": 1835.6215724394037,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 669,
+"power_kw": 809.7037614712617,
+"t_out_c": 502
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 502,
+"power_kw": 931.2561860755322,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 670,
+"power_kw": 1841.050707437061,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 670,
+"power_kw": 811.4013759691975,
+"t_out_c": 503
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 503,
+"power_kw": 936.4047337860276,
+"t_out_c": 166
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 166,
+"power_kw": 93.2445976818361,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 671,
+"power_kw": 1847.3825147548882,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 671,
+"power_kw": 813.1001699176439,
+"t_out_c": 504
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 504,
+"power_kw": 939.6207199446346,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 672,
+"power_kw": 1852.3093448453997,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 672,
+"power_kw": 814.800150385192,
+"t_out_c": 505
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 505,
+"power_kw": 942.8475695675978,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 673,
+"power_kw": 1857.2478372864648,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 673,
+"power_kw": 816.5013244587356,
+"t_out_c": 506
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 506,
+"power_kw": 946.0848879351195,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 674,
+"power_kw": 1862.1799930410166,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 674,
+"power_kw": 818.18614227023,
+"t_out_c": 507
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 507,
+"power_kw": 949.3322258781769,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 675,
+"power_kw": 1863.884860385363,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 675,
+"power_kw": 819.8910096145764,
+"t_out_c": 507
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 507,
+"power_kw": 949.3322258781769,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 676,
+"power_kw": 1884.5643923319333,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 676,
+"power_kw": 821.5970893324019,
+"t_out_c": 508
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 508,
+"power_kw": 952.7012192565958,
+"t_out_c": 178
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 178,
+"power_kw": 110.26608374293556,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 677,
+"power_kw": 1890.113581791875,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 677,
+"power_kw": 823.3043475999029,
+"t_out_c": 509
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 509,
+"power_kw": 956.5431504490367,
+"t_out_c": 178
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 178,
+"power_kw": 110.26608374293556,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 678,
+"power_kw": 1884.3008589782746,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 678,
+"power_kw": 825.0128798354768,
+"t_out_c": 510
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 510,
+"power_kw": 966.0433814609619,
+"t_out_c": 166
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 166,
+"power_kw": 93.2445976818361,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 679,
+"power_kw": 1887.5902795352447,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 679,
+"power_kw": 826.7054607974105,
+"t_out_c": 511
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 511,
+"power_kw": 964.8059098051466,
+"t_out_c": 168
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 168,
+"power_kw": 96.07890893268741,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 680,
+"power_kw": 1864.5795776620632,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 680,
+"power_kw": 828.4184516916994,
+"t_out_c": 512
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 512,
+"power_kw": 974.0281364604651,
+"t_out_c": 144
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 144,
+"power_kw": 62.132989509898515,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 681,
+"power_kw": 1901.044458712348,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 681,
+"power_kw": 830.1326954831219,
+"t_out_c": 513
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 513,
+"power_kw": 976.2501383366163,
+"t_out_c": 167
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 167,
+"power_kw": 94.66162489260981,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 682,
+"power_kw": 1878.6930426670049,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 682,
+"power_kw": 831.8308833101182,
+"t_out_c": 514
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 514,
+"power_kw": 980.4935832347521,
+"t_out_c": 147
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 147,
+"power_kw": 66.36857612213463,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 683,
+"power_kw": 1880.4128681803536,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 683,
+"power_kw": 833.550708823467,
+"t_out_c": 514
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 514,
+"power_kw": 980.4935832347521,
+"t_out_c": 147
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 147,
+"power_kw": 66.36857612213463,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 684,
+"power_kw": 1887.9613704086903,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 684,
+"power_kw": 835.2718093083699,
+"t_out_c": 515
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 515,
+"power_kw": 984.9086504207767,
+"t_out_c": 148
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 148,
+"power_kw": 67.7809106795437,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 685,
+"power_kw": 1898.4253362698996,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 685,
+"power_kw": 836.9941916938685,
+"t_out_c": 516
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 516,
+"power_kw": 993.6502338964874,
+"t_out_c": 148
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 148,
+"power_kw": 67.7809106795437,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 686,
+"power_kw": 1907.934948992478,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 686,
+"power_kw": 838.7178629021653,
+"t_out_c": 517
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 517,
+"power_kw": 1000.023602950677,
+"t_out_c": 149
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 149,
+"power_kw": 69.19348313963555,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 687,
+"power_kw": 1914.6139418388943,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 687,
+"power_kw": 840.4428298485661,
+"t_out_c": 518
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 518,
+"power_kw": 1000.7384737723793,
+"t_out_c": 152
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 152,
+"power_kw": 73.43263821794888,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 688,
+"power_kw": 1926.2882240399379,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 688,
+"power_kw": 842.1690994416149,
+"t_out_c": 519
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 519,
+"power_kw": 1009.272952046231,
+"t_out_c": 153
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 153,
+"power_kw": 74.84617255209203,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 689,
+"power_kw": 1935.596551378647,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 689,
+"power_kw": 843.8966785831113,
+"t_out_c": 520
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 520,
+"power_kw": 1014.0259015167043,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 690,
+"power_kw": 1942.620296795658,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 690,
+"power_kw": 845.6255741681302,
+"t_out_c": 521
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 521,
+"power_kw": 1019.3207513486965,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 691,
+"power_kw": 1944.3505157126394,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 691,
+"power_kw": 847.3557930851116,
+"t_out_c": 521
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 521,
+"power_kw": 1019.3207513486965,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 692,
+"power_kw": 1949.2537233411588,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 692,
+"power_kw": 849.0873422158647,
+"t_out_c": 522
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 522,
+"power_kw": 1022.4924098464627,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 693,
+"power_kw": 1954.1521033386423,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 693,
+"power_kw": 850.8202284356481,
+"t_out_c": 523
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 523,
+"power_kw": 1025.6579036241628,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 694,
+"power_kw": 1960.4384057461373,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 694,
+"power_kw": 852.5350527254227,
+"t_out_c": 524
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 524,
+"power_kw": 1028.8151153302906,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 695,
+"power_kw": 1965.3174449701316,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 695,
+"power_kw": 854.2675684527948,
+"t_out_c": 525
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 525,
+"power_kw": 1031.961638826913,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 696,
+"power_kw": 1970.1844083896572,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 696,
+"power_kw": 856.0014412409312,
+"t_out_c": 526
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 526,
+"power_kw": 1035.094729458302,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 697,
+"power_kw": 1975.0361592245395,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 697,
+"power_kw": 857.7366779738622,
+"t_out_c": 527
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 527,
+"power_kw": 1038.2112435602533,
+"t_out_c": 156
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 156,
+"power_kw": 79.08823769042388,
+"t_out_c": 99
+}
+]
+},
+{
+"t_flue_in_c": 698,
+"power_kw": 1986.5300810508231,
+"t_exit_c": 99,
+"stages": [
+{
+"cycle": "Supercritical CO\u2082",
+"t_in_c": 698,
+"power_kw": 859.4526374127662,
+"t_out_c": 528
+},
+{
+"cycle": "Steam Rankine",
+"t_in_c": 528,
+"power_kw": 1049.4034723592254,
+"t_out_c": 155
+},
+{
+"cycle": "LiBr (cooling \u00f7 5.4)",
+"t_in_c": 155,
+"power_kw": 77.67397127883147,
+"t_out_c": 99
+}
+]
+}
+]
+}
